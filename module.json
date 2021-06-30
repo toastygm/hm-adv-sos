@@ -1,0 +1,34 @@
+{
+  "name": "hm-adv-sos",
+  "title": "Harn Adventure: A Shower of Silver",
+  "description": "Harn Adventure 'A Shower of Silver'",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.6",
+  "minimumSystemVersion": "1.2.19",
+  "systems": ["hm3"],
+  "authors": [
+    {
+      "name": "Tom Rodriguez",
+      "discord": "toasty#8538"
+    }
+  ],
+  "packs": [
+    {
+      "entity": "Actor",
+      "label": "FFF Actors",
+      "name": "fff-actors.db",
+      "path": "packs/fff-actors.db"
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "scene-packer",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+      "type": "module"
+    }
+  ],
+  "url": "https://github.com/toastygm/hm-adv-sos/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-sos/master/module.json",
+  "download": "https://github.com/toastygm/hm-adv-sos/archive/v1.0.0.zip"
+}
