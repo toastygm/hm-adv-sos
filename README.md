@@ -30,5 +30,5 @@ the HârnWorld fan site [Lythia.com](https://www.lythia.com/).
 
 Thanks to Grant Dalgleish for permission to use the official ‘Sir Shernath Mirdarne’ illustration from the ‘Kaldor Kingdom Module’
 
-This module is "Fanon", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
+This module is "[Fanon](https://www.lythia.com/about/publishing-fan-written-material/)", a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.
 
