@@ -2,11 +2,9 @@
   "name": "hm-adv-sos",
   "title": "A Shower of Silver",
   "description": "An introductory murder-mystery adventure for Hârn, located around Jedes keep in the kingdom of Kaldor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
-  "minimumSystemVersion": "1.2.20",
-  "systems": ["hm3"],
   "authors": [
     {
       "name": "Tom Rodriguez",
@@ -46,5 +44,5 @@
   ],
   "url": "https://github.com/toastygm/hm-adv-sos/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-sos/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-sos/archive/v0.0.1.zip"
+  "download": "https://github.com/toastygm/hm-adv-sos/archive/v0.0.2.zip"
 }
