@@ -1,11 +1,11 @@
 {
   "name": "hm-adv-sos",
-  "title": "Harn Adventure: A Shower of Silver",
-  "description": "Harn Adventure 'A Shower of Silver'",
-  "version": "1.0.0",
-  "minimumCoreVersion": "0.8.8",
-  "compatibleCoreVersion": "0.8.6",
-  "minimumSystemVersion": "1.2.19",
+  "title": "A Shower of Silver",
+  "description": "An introductory murder-mystery adventure for Hârn, located around Jedes keep in the kingdom of Kaldor",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.8",
+  "minimumSystemVersion": "1.2.20",
   "systems": ["hm3"],
   "authors": [
     {
@@ -13,12 +13,28 @@
       "discord": "toasty#8538"
     }
   ],
+  "scripts": [
+    "./scripts/init.js"
+  ],
   "packs": [
     {
       "entity": "Actor",
-      "label": "FFF Actors",
-      "name": "fff-actors.db",
-      "path": "packs/fff-actors.db"
+      "label": "A Shower of Silver - Actors",
+      "name": "sos-actors",
+      "path": "packs/actors.db",
+      "system": "hm3"
+    },
+    {
+      "entity": "Scene",
+      "label": "A Shower of Silver - Scenes",
+      "name": "sos-scenes",
+      "path": "packs/scenes.db"
+    },
+    {
+      "entity": "JournalEntry",
+      "label": "A Shower of Silver - Journals",
+      "name": "sos-journals",
+      "path": "packs/journals.db"
     }
   ],
   "dependencies": [
@@ -30,5 +46,5 @@
   ],
   "url": "https://github.com/toastygm/hm-adv-sos/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-sos/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-sos/archive/v1.0.0.zip"
+  "download": "https://github.com/toastygm/hm-adv-sos/archive/v0.0.1.zip"
 }
