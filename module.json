@@ -5,6 +5,9 @@
   "version": "0.0.2",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
+  "bugs": "https://github.com/toastygm/hm-adv-sos/issues",
+  "license": "LICENSE",
+  "readme": "README.md",
   "authors": [
     {
       "name": "Tom Rodriguez",
@@ -44,5 +47,8 @@
   ],
   "url": "https://github.com/toastygm/hm-adv-sos/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-sos/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-sos/archive/v0.0.2.zip"
+  "download": "https://github.com/toastygm/hm-adv-sos/archive/v0.0.2.zip",
+  "flags": {
+    "allowBugReporter": true
+  }
 }
