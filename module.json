@@ -2,7 +2,7 @@
   "name": "hm-adv-sos",
   "title": "A Shower of Silver",
   "description": "An introductory murder-mystery adventure for Hârn, located around Jedes keep in the kingdom of Kaldor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-adv-sos/issues",
@@ -41,7 +41,7 @@
   "dependencies": [
     {
       "name": "hm-loc-jedes",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+      "manifest": "https://raw.githubusercontent.com/toastygm/hm-loc-jedes/master/module.json",
       "type": "module"
     },
     {
@@ -52,7 +52,7 @@
   ],
   "url": "https://github.com/toastygm/hm-adv-sos/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-sos/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-sos/archive/v1.0.0.zip",
+  "download": "https://github.com/toastygm/hm-adv-sos/archive/v1.0.1.zip",
   "flags": {
     "allowBugReporter": true
   }
