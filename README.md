@@ -1,5 +1,7 @@
 # HârnWorld Introductory Adventure: A Shower of Silver
 
+![Characters](assets/images/characters.jpg)
+
 This module provides the adventure "A Shower of Silver", an introductory murder-mystery
 adventure for the [HârnWorld](https://columbiagames.com/harnworld/)
 fantasy setting, located around Jedes keep in the kingdom of Kaldor. However, this
