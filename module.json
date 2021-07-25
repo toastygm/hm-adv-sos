@@ -2,7 +2,7 @@
   "name": "hm-adv-sos",
   "title": "A Shower of Silver",
   "description": "An introductory murder-mystery adventure for Hârn, located around Jedes keep in the kingdom of Kaldor",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "0.8.8",
   "bugs": "https://github.com/toastygm/hm-adv-sos/issues",
@@ -21,24 +21,29 @@
     {
       "entity": "Actor",
       "label": "A Shower of Silver - Actors",
-      "name": "sos-actors",
+      "name": "actors",
       "path": "packs/actors.db",
       "system": "hm3"
     },
     {
       "entity": "Scene",
       "label": "A Shower of Silver - Scenes",
-      "name": "sos-scenes",
+      "name": "scenes",
       "path": "packs/scenes.db"
     },
     {
       "entity": "JournalEntry",
       "label": "A Shower of Silver - Journals",
-      "name": "sos-journals",
+      "name": "journals",
       "path": "packs/journals.db"
     }
   ],
   "dependencies": [
+    {
+      "name": "hm-loc-jedes",
+      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+      "type": "module"
+    },
     {
       "name": "scene-packer",
       "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
@@ -47,7 +52,7 @@
   ],
   "url": "https://github.com/toastygm/hm-adv-sos/",
   "manifest": "https://raw.githubusercontent.com/toastygm/hm-adv-sos/master/module.json",
-  "download": "https://github.com/toastygm/hm-adv-sos/archive/v0.0.2.zip",
+  "download": "https://github.com/toastygm/hm-adv-sos/archive/v1.0.0.zip",
   "flags": {
     "allowBugReporter": true
   }
