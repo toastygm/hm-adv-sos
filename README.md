@@ -1,4 +1,7 @@
 # HârnWorld Introductory Adventure: A Shower of Silver
+[![Version (latest)](https://img.shields.io/github/v/release/toastygm/hm-adv-sos)](https://github.com/toastygm/hm-adv-sos/releases/latest)
+[![Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fhm-adv-sos&colorB=4aa94a)](https://forge-vtt.com/bazaar#package=hm-adv-sos)
+[![GitHub downloads (latest)](https://img.shields.io/badge/dynamic/json?label=Downloads@latest&query=assets[?(@.name.includes('zip'))].download_count&url=https://api.github.com/repos/toastygm/hm-adv-sos/releases/latest&color=green)](https://github.com/toastygm/hm-adv-sos/releases/latest)
 
 ![Characters](assets/images/characters.jpg)
 
