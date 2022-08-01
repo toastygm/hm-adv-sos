@@ -33,7 +33,7 @@
    * Set to the following to disable:
    *   const journalPacks = [];
    */
-  const journalPacks = [`${moduleName}.journals`, 'hm-loc-jedes.journals'];
+  const journalPacks = [`${moduleName}.journals`];
   /**
    * macroPacks is a list of compendium packs to look in for Macros by name (in prioritised order).
    * The first entry here assumes that you have a Macro pack in your module with the "name" of "macros".
