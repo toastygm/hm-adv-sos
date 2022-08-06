@@ -27,16 +27,12 @@
       {
         "id": "hm-loc-jedes",
         "type": "module",
-        "manifest": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.json",
-        "compatibility": {
-          "verified": "1.2.1"
-        }
+        "manifest": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.json"
       },
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
