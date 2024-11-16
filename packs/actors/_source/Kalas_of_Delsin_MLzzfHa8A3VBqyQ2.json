@@ -1,0 +1,3704 @@
+{
+  "_id": "MLzzfHa8A3VBqyQ2",
+  "name": "Kalas of Delsin",
+  "type": "character",
+  "img": "modules/hm-adv-sos/assets/images/kalas-of-delsin-headshot.webp",
+  "items": [
+    {
+      "_id": "47vU74DY9WbgeVin",
+      "name": "Climbing",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/climbing.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 8",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @dex, @agl, Ulandus:2, Aralius:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 56,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.47vU74DY9WbgeVin"
+    },
+    {
+      "_id": "B4hIOZ4Juov0Aoy0",
+      "name": "Stealth",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/stealth.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 9",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 12,
+          "formula": "@agl, @hrg, @wil, Hirin:2, Tarael:2, Tai:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 36,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.B4hIOZ4Juov0Aoy0"
+    },
+    {
+      "_id": "BY3DCjt2ZDUXJO0g",
+      "name": "Jumping",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/jump.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 9",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @agl, @agl, Nadai:2, Hirin:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 56,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.BY3DCjt2ZDUXJO0g"
+    },
+    {
+      "_id": "j03zx7MId5h9OWPO",
+      "name": "Throwing",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/throw.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 10",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @dex, @eye, Hirin:2, Tarael, Nadai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 56,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.j03zx7MId5h9OWPO"
+    },
+    {
+      "_id": "OQAJ2h1hgFOy5UTz",
+      "name": "Intrigue",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/cloak-dagger.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 11",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 11,
+          "formula": "@int, @aur, @wil, Tai, Tarael, Skorus",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 33,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.OQAJ2h1hgFOy5UTz"
+    },
+    {
+      "_id": "W6NfzWyYXMA2DLQH",
+      "name": "Awareness",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/awareness.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 11",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 11,
+          "formula": "@eye, @hrg, @sml, Hirin:2, Tarael:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 44,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.W6NfzWyYXMA2DLQH"
+    },
+    {
+      "_id": "XY9vegVRYpZOyUUi",
+      "name": "Oratory",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/oratory.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 12",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 11,
+          "formula": "@cml, @voi, @int, Tarael",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 22,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.XY9vegVRYpZOyUUi"
+    },
+    {
+      "_id": "fPGvWCIxGfuvMS9V",
+      "name": "Rhetoric",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/rhetoric.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 12",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 11,
+          "formula": "@voi, @int, @wil, Tai, Tarael, Skorus",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 33,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.fPGvWCIxGfuvMS9V"
+    },
+    {
+      "_id": "p4i2RojhQhN5xQaN",
+      "name": "Singing",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/musician-singing.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 12",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 10,
+          "formula": "@hrg, @voi, @voi, Masara",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 30,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.p4i2RojhQhN5xQaN"
+    },
+    {
+      "_id": "SlJbFnnmIzMn04UC",
+      "name": "Initiative",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/initiative.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 18",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 13,
+          "formula": "@agl, @wil, @wil",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 78,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.SlJbFnnmIzMn04UC"
+    },
+    {
+      "_id": "TIVE9VoQABp8oTEi",
+      "name": "Unarmed",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/punch.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 18",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @dex, @agl, Madada:2, Lado:2, Ulandus:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 56,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.TIVE9VoQABp8oTEi"
+    },
+    {
+      "_id": "tsc8JuSd7RKnLLcI",
+      "name": "Dodge",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/dodge.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 21",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 13,
+          "formula": "@agl, @agl, @agl",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 65,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.tsc8JuSd7RKnLLcI"
+    },
+    {
+      "name": "Skull",
+      "type": "armorlocation",
+      "_id": "98vjxulqgk8fqpfi",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "skull",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 150,
+          "mid": 50,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.98vjxulqgk8fqpfi"
+    },
+    {
+      "name": "Face",
+      "type": "armorlocation",
+      "_id": "jn9dr2w3hodzubtx",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "face",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 150,
+          "mid": 50,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.jn9dr2w3hodzubtx"
+    },
+    {
+      "name": "Neck",
+      "type": "armorlocation",
+      "_id": "t12u61b7rg2pjflr",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "neck",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 150,
+          "mid": 50,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.t12u61b7rg2pjflr"
+    },
+    {
+      "name": "Left Shoulder",
+      "type": "armorlocation",
+      "_id": "t17u1f2jdndtaqs5",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "shoulder",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 60,
+          "mid": 60,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.t17u1f2jdndtaqs5"
+    },
+    {
+      "name": "Right Shoulder",
+      "type": "armorlocation",
+      "_id": "t9ijbam2l8n1x71r",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "shoulder",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 60,
+          "mid": 60,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.t9ijbam2l8n1x71r"
+    },
+    {
+      "name": "Left Upper Arm",
+      "type": "armorlocation",
+      "_id": "3qg8vxhggii8jaim",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "upperarm",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 60,
+          "mid": 30,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.3qg8vxhggii8jaim"
+    },
+    {
+      "name": "Right Upper Arm",
+      "type": "armorlocation",
+      "_id": "yf6bwir2olgccprs",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "upperarm",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 60,
+          "mid": 30,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.yf6bwir2olgccprs"
+    },
+    {
+      "name": "Left Elbow",
+      "type": "armorlocation",
+      "_id": "dmd5xmywa5xfvcpb",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "elbow",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 10,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.dmd5xmywa5xfvcpb"
+    },
+    {
+      "name": "Right Elbow",
+      "type": "armorlocation",
+      "_id": "eul171eoihj35z9i",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "elbow",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 10,
+          "low": 0
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.eul171eoihj35z9i"
+    },
+    {
+      "name": "Left Forearm",
+      "type": "armorlocation",
+      "_id": "3ej9sl0fub4cl3f6",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "forearm",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 40,
+          "mid": 20,
+          "low": 30
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.3ej9sl0fub4cl3f6"
+    },
+    {
+      "name": "Right Forearm",
+      "type": "armorlocation",
+      "_id": "a7zkwm9jtcyoxhz7",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "forearm",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 40,
+          "mid": 20,
+          "low": 30
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.a7zkwm9jtcyoxhz7"
+    },
+    {
+      "name": "Left Hand",
+      "type": "armorlocation",
+      "_id": "z8gie8ng9bp02n0v",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "hand",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 20,
+          "low": 30
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.z8gie8ng9bp02n0v"
+    },
+    {
+      "name": "Right Hand",
+      "type": "armorlocation",
+      "_id": "psms2hvqvacea2bd",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": true,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "hand",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 20,
+          "mid": 20,
+          "low": 30
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.psms2hvqvacea2bd"
+    },
+    {
+      "name": "Thorax",
+      "type": "armorlocation",
+      "_id": "tqy7n0z7iielenkq",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "thorax",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 100,
+          "mid": 170,
+          "low": 70
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.tqy7n0z7iielenkq"
+    },
+    {
+      "name": "Abdomen",
+      "type": "armorlocation",
+      "_id": "q1q9w90mi0fe06mt",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": false,
+        "impactType": "abdomen",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "K4",
+          "ei17": "K5"
+        },
+        "probWeight": {
+          "high": 60,
+          "mid": 100,
+          "low": 100
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.q1q9w90mi0fe06mt"
+    },
+    {
+      "name": "Groin",
+      "type": "armorlocation",
+      "_id": "cxctbp78st92stsm",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": false,
+        "isAmputate": true,
+        "impactType": "groin",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 40,
+          "low": 60
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.cxctbp78st92stsm"
+    },
+    {
+      "name": "Left Hip",
+      "type": "armorlocation",
+      "_id": "jx32ql6dm2fb2til",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": false,
+        "impactType": "hip",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 30,
+          "low": 70
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.jx32ql6dm2fb2til"
+    },
+    {
+      "name": "Right Hip",
+      "type": "armorlocation",
+      "_id": "thr416h54ghx5acx",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": false,
+        "impactType": "hip",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 30,
+          "low": 70
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.thr416h54ghx5acx"
+    },
+    {
+      "name": "Left Thigh",
+      "type": "armorlocation",
+      "_id": "q519ua6sfroll7vu",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "thigh",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 40,
+          "low": 100
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.q519ua6sfroll7vu"
+    },
+    {
+      "name": "Right Thigh",
+      "type": "armorlocation",
+      "_id": "cmpecmyqhu8wpe7v",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "thigh",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "K4"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 40,
+          "low": 100
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.cmpecmyqhu8wpe7v"
+    },
+    {
+      "name": "Left Knee",
+      "type": "armorlocation",
+      "_id": "gd442ufkdiocwhq4",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "knee",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 10,
+          "low": 40
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.gd442ufkdiocwhq4"
+    },
+    {
+      "name": "Right Knee",
+      "type": "armorlocation",
+      "_id": "t119xn48ai97wjt9",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "knee",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 10,
+          "low": 40
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.t119xn48ai97wjt9"
+    },
+    {
+      "name": "Left Calf",
+      "type": "armorlocation",
+      "_id": "c6fw7hl28y6bpzdo",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "calf",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 30,
+          "low": 70
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.c6fw7hl28y6bpzdo"
+    },
+    {
+      "name": "Right Calf",
+      "type": "armorlocation",
+      "_id": "9i9hcmzt84t5quf7",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "calf",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "M1",
+          "ei9": "S2",
+          "ei13": "S3",
+          "ei17": "G4"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 30,
+          "low": 70
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.9i9hcmzt84t5quf7"
+    },
+    {
+      "name": "Left Foot",
+      "type": "armorlocation",
+      "_id": "am5kty79un5tdtbj",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "foot",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 20,
+          "low": 40
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.am5kty79un5tdtbj"
+    },
+    {
+      "name": "Right Foot",
+      "type": "armorlocation",
+      "_id": "r1p90i0ylwqv9pjw",
+      "img": "icons/svg/item-bag.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "system": {
+        "layers": "",
+        "armorQuality": 0,
+        "blunt": 0,
+        "edged": 0,
+        "piercing": 0,
+        "fire": 0,
+        "isFumble": false,
+        "isStumble": true,
+        "isAmputate": true,
+        "impactType": "foot",
+        "effectiveImpact": {
+          "ei1": "M1",
+          "ei5": "S2",
+          "ei9": "S3",
+          "ei13": "G4",
+          "ei17": "G5"
+        },
+        "probWeight": {
+          "high": 0,
+          "mid": 20,
+          "low": 40
+        }
+      },
+      "ownership": {
+        "default": 0
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.r1p90i0ylwqv9pjw"
+    },
+    {
+      "_id": "APJ3WMsrTM1e8tau",
+      "name": "Condition",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/muscle.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-physical.CJHE6RelYvl2GdOY"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 9",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Physical",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @sta, @wil, Ulandus, Lado",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 70,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.APJ3WMsrTM1e8tau"
+    },
+    {
+      "_id": "lYcnWIYKuYrskBkB",
+      "name": "Larani",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/png/larani.png",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-religion.z1a4manwF2itd0Es"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM Religion, Larani 1",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Ritual",
+        "skillBase": {
+          "value": 11,
+          "formula": "@voi, @int, @wil, Angberelius:2, Ahnu, Feniri",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 11,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 16
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.lYcnWIYKuYrskBkB"
+    },
+    {
+      "_id": "WMUUewFgjaL4sERa",
+      "name": "Dagger",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/dagger.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-combat.br5tuRDMYNz0Tlz6"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 19",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 14,
+          "formula": "@dex, @dex, @eye, Angberelius:2, Nadai:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 70,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.WMUUewFgjaL4sERa"
+    },
+    {
+      "_id": "Rvf3nPeLdg2XlSfQ",
+      "name": "Round Shield (Shield)",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/shield.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-combat.GREBHsS1IpkQsxTu"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 19",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 16,
+          "formula": "@str, @dex, @dex, Ulandus, Lado, Masara",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 80,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.Rvf3nPeLdg2XlSfQ"
+    },
+    {
+      "_id": "PEmDU8OOZ2ZWtd3C",
+      "name": "Shortbow (Bow)",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/longbow.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-combat.8QbtmabtQIvjdVAC"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 19",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @dex, @eye, Hirin, Tarael, Nadai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 42,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.PEmDU8OOZ2ZWtd3C"
+    },
+    {
+      "_id": "Kb1da95t7F5tXbZs",
+      "name": "Shortsword (Sword)",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/sword.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-combat.1KBalhq4L6MjQ0H8"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 19",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 15,
+          "formula": "@str, @dex, @dex, Angberelius:3, Ahnu, Nadai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 75,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.Kb1da95t7F5tXbZs"
+    },
+    {
+      "_id": "jHDJfKv48nNsF0jU",
+      "name": "Spear",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/spear.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-combat.gN99vheiz8S3S9OH"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 19",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Combat",
+        "skillBase": {
+          "value": 15,
+          "formula": "@str, @str, @dex, Aralius, Feniri, Ulandus",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 75,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.jHDJfKv48nNsF0jU"
+    },
+    {
+      "_id": "qJbEcIpajKt51vwu",
+      "name": "Language: Hârnic",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/speaking.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-communication.lbLQA2eFjY35hbkf"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 10",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 11,
+          "formula": "@voi, @int, @wil, Tai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 71,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.qJbEcIpajKt51vwu"
+    },
+    {
+      "_id": "ASjbXdNRdhgciXqA",
+      "name": "Script: Lakise",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/scroll.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-communication.aU2xjhsLpWaA1FD2"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 11",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Communication",
+        "skillBase": {
+          "value": 12,
+          "formula": "@dex, @eye, @int, Tarael, Tai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 82,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.ASjbXdNRdhgciXqA"
+    },
+    {
+      "_id": "aNUfyhjmS4pZuZvE",
+      "name": "Agriculture",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/agriculture.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.znwk50XUYdsLKzn8"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 13",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @sta, @wil, Ulandus:2, Aralius:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 56,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.aNUfyhjmS4pZuZvE"
+    },
+    {
+      "_id": "8Qy4fRXtvKXjiNzB",
+      "name": "Cookery",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/cookery.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.bUjKsDLEbG13HQkc"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 13",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 12,
+          "formula": "@dex, @sml, @sml, Skorus",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 48,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.8Qy4fRXtvKXjiNzB"
+    },
+    {
+      "_id": "8tif3YqpuG1MugnZ",
+      "name": "Foraging",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/foraging.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.8NaAbsQYAipTOGqz"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 15",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 12,
+          "formula": "@dex, @sml, @int, Ulandus:2, Aralius:2",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 60,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.8tif3YqpuG1MugnZ"
+    },
+    {
+      "_id": "v9Aj81tI6rJB1Xpi",
+      "name": "Heraldry",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/heraldry.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.uprX8bPe4LCybOOz"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 15",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 13,
+          "formula": "@dex, @eye, @wil, Skorus, Tai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 39,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.v9Aj81tI6rJB1Xpi"
+    },
+    {
+      "_id": "VzzR2QhieIaALjRP",
+      "name": "Physician",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/caduceus.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.630pGmu3ezlMmVPO"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 17",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 14,
+          "formula": "@dex, @eye, @int, Masara:2, Skorus, Tai",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 42,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.VzzR2QhieIaALjRP"
+    },
+    {
+      "_id": "VAKNapoOJrIDmiAC",
+      "name": "Survival",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/survival.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.7W8juNNrg8dWHXBD"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 17",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 13,
+          "formula": "@str, @dex, @int, Ulandus:2, Aralius",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 65,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.VAKNapoOJrIDmiAC"
+    },
+    {
+      "_id": "SzcUTZI94B1Jiik5",
+      "name": "Tracking",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/tracking.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.E9huamcKA7ObQIuv"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 17",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 12,
+          "formula": "@eye, @sml, @wil, Ulandus:3, Aralius:3",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 36,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.SzcUTZI94B1Jiik5"
+    },
+    {
+      "_id": "Ie678Lb6QqquNM8E",
+      "name": "Weaponcraft",
+      "type": "skill",
+      "img": "systems/hm3/images/icons/svg/sword.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-skills-crafts-and-lore.Ix8jZ95lzlMCIE0w"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Skills 17",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "type": "Craft",
+        "skillBase": {
+          "value": 14,
+          "formula": "@str, @dex, @wil, Feniri:3, Ahnu, Angberelius",
+          "isFormulaValid": true
+        },
+        "masteryLevel": 42,
+        "effectiveMasteryLevel": 0,
+        "ritual": {
+          "piety": 0
+        },
+        "improveFlag": false
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.Ie678Lb6QqquNM8E"
+    },
+    {
+      "_id": "BFJXY5c0AZvEt2yL",
+      "name": "Dagger",
+      "type": "weapongear",
+      "img": "systems/hm3/images/icons/svg/broad-dagger.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-melee-weapons.GJwhB32xY0P9dzix"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 3",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 24,
+        "weight": 1,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Dagger",
+        "weaponQuality": 11,
+        "attackMasteryLevel": 0,
+        "attack": 5,
+        "defense": 5,
+        "attackModifier": 0,
+        "blunt": 1,
+        "edged": 2,
+        "piercing": 5,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.BFJXY5c0AZvEt2yL"
+    },
+    {
+      "_id": "5pIIK8fvopCqaN2z",
+      "name": "Round Shield",
+      "type": "weapongear",
+      "img": "systems/hm3/images/icons/svg/round-shield.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-melee-weapons.Qeq0GxYlYx3nvSno"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 3",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 42,
+        "weight": 6,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Round Shield (Shield)",
+        "weaponQuality": 13,
+        "attackMasteryLevel": 0,
+        "attack": 5,
+        "defense": 20,
+        "attackModifier": 0,
+        "blunt": 2,
+        "edged": 0,
+        "piercing": 3,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.5pIIK8fvopCqaN2z"
+    },
+    {
+      "_id": "wEV7qDw7DqCAjOqG",
+      "name": "Shortbow",
+      "type": "weapongear",
+      "img": "systems/hm3/images/icons/svg/longbow.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-melee-weapons.weVjgP97tQU930SP"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 3",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 24,
+        "weight": 2,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Shortbow (Bow)",
+        "weaponQuality": 10,
+        "attackMasteryLevel": 0,
+        "attack": 5,
+        "defense": 5,
+        "attackModifier": 0,
+        "blunt": 1,
+        "edged": 0,
+        "piercing": 0,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.wEV7qDw7DqCAjOqG"
+    },
+    {
+      "_id": "Ttm4jcUqtm85UNVE",
+      "name": "Shortsword",
+      "type": "weapongear",
+      "img": "systems/hm3/images/icons/svg/sword.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-melee-weapons.mjhDujszpTCRaLfT"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 3",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 90,
+        "weight": 2,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Shortsword (Sword)",
+        "weaponQuality": 12,
+        "attackMasteryLevel": 0,
+        "attack": 10,
+        "defense": 5,
+        "attackModifier": 0,
+        "blunt": 2,
+        "edged": 4,
+        "piercing": 4,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.Ttm4jcUqtm85UNVE"
+    },
+    {
+      "_id": "CkyL4yDCByFeW1UR",
+      "name": "Spear",
+      "type": "weapongear",
+      "img": "systems/hm3/images/icons/svg/spear.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-melee-weapons.ik2tsvcQo2NkcsbR"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 3",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 60,
+        "weight": 5,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Spear",
+        "weaponQuality": 11,
+        "attackMasteryLevel": 0,
+        "attack": 20,
+        "defense": 10,
+        "attackModifier": -10,
+        "blunt": 4,
+        "edged": 0,
+        "piercing": 7,
+        "defenseMasteryLevel": 0
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.CkyL4yDCByFeW1UR"
+    },
+    {
+      "_id": "NZa91X7xRI2G2doR",
+      "name": "Arrow (Shortbow)",
+      "type": "missilegear",
+      "img": "systems/hm3/images/icons/svg/arrow.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-missile-weapons.e3HhLeRYoF5cGCtm"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 16",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 12,
+        "value": 1.25,
+        "weight": 0.2,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "assocSkill": "Shortbow (Bow)",
+        "weaponQuality": 10,
+        "attackMasteryLevel": 0,
+        "weaponAspect": "Piercing",
+        "attackModifier": 0,
+        "range": {
+          "short": 100,
+          "medium": 200,
+          "long": 400,
+          "extreme": 800,
+          "extreme64": 0,
+          "extreme128": 0,
+          "extreme256": 0
+        },
+        "impact": {
+          "short": 6,
+          "medium": 5,
+          "long": 4,
+          "extreme": 3,
+          "extreme64": 0,
+          "extreme128": 0,
+          "extreme256": 0
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "v9BoeW8JnfRjUTit": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.NZa91X7xRI2G2doR"
+    },
+    {
+      "_id": "qjq7r05Bvu4qGRXB",
+      "name": "Quilt Cowl",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/hood.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.v2osEsHYecjWQ8bF"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 32,
+        "weight": 2.4,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Quilt",
+        "armorQuality": 0,
+        "locations": [
+          "Skull",
+          "Neck"
+        ],
+        "protection": {
+          "blunt": 5,
+          "edged": 3,
+          "piercing": 2,
+          "fire": 4,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.qjq7r05Bvu4qGRXB"
+    },
+    {
+      "_id": "x8Jcv74FWQbCvHm1",
+      "name": "Quilt Gambeson",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/tunic.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.4B0m65oZ45ynxoSd"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 264,
+        "weight": 19.8,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Quilt",
+        "armorQuality": 0,
+        "locations": [
+          "Forearm",
+          "Elbow",
+          "Upper Arm",
+          "Shoulder",
+          "Thorax",
+          "Abdomen",
+          "Hip",
+          "Groin",
+          "Thigh"
+        ],
+        "protection": {
+          "blunt": 5,
+          "edged": 3,
+          "piercing": 2,
+          "fire": 4,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.x8Jcv74FWQbCvHm1"
+    },
+    {
+      "_id": "8BzDG4wRcChI72OL",
+      "name": "Kurbul Halfhelm",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/light-helm.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.zkqnvAqXJkCNnoAG"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 20,
+        "weight": 1,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Kurbul",
+        "armorQuality": 0,
+        "locations": [
+          "Skull"
+        ],
+        "protection": {
+          "blunt": 4,
+          "edged": 5,
+          "piercing": 4,
+          "fire": 3,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.8BzDG4wRcChI72OL"
+    },
+    {
+      "_id": "ZaytVfSXE1wv783F",
+      "name": "Cloth Leggings",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/leggings.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.NQTU1LZJ46EA5g4O"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 88,
+        "weight": 4.4,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Cloth",
+        "armorQuality": 0,
+        "locations": [
+          "Hip",
+          "Groin",
+          "Thigh",
+          "Knee",
+          "Calf",
+          "Foot"
+        ],
+        "protection": {
+          "blunt": 1,
+          "edged": 1,
+          "piercing": 1,
+          "fire": 1,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.ZaytVfSXE1wv783F"
+    },
+    {
+      "_id": "bMs5pBPiYjepe8Ro",
+      "name": "Cloth Tunic",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/tunic.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.uJeMH2zX0dSXgGK9"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 88,
+        "weight": 4.4,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Cloth",
+        "armorQuality": 0,
+        "locations": [
+          "Upper Arm",
+          "Shoulder",
+          "Thorax",
+          "Abdomen",
+          "Hip",
+          "Groin"
+        ],
+        "protection": {
+          "blunt": 1,
+          "edged": 1,
+          "piercing": 1,
+          "fire": 1,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.bMs5pBPiYjepe8Ro"
+    },
+    {
+      "_id": "0k3Nfz2xYAdpiZwL",
+      "name": "Leather Gauntlets",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/gauntlet.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.G9jvjzIUCwafVlFT"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 16,
+        "weight": 0.8,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Leather",
+        "armorQuality": 0,
+        "locations": [
+          "Hand"
+        ],
+        "protection": {
+          "blunt": 2,
+          "edged": 4,
+          "piercing": 3,
+          "fire": 3,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.0k3Nfz2xYAdpiZwL"
+    },
+    {
+      "_id": "ylsNgImOxdHvf7vc",
+      "name": "Leather Knee Boots",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/leather-boot.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3.std-armor.aGs6PSS2hARC9prf"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "HM3 Combat 4",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 76,
+        "weight": 3.8,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Leather",
+        "armorQuality": 0,
+        "locations": [
+          "Foot",
+          "Calf",
+          "Knee"
+        ],
+        "protection": {
+          "blunt": 2,
+          "edged": 4,
+          "piercing": 3,
+          "fire": 3,
+          "squeeze": 0
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.ylsNgImOxdHvf7vc"
+    },
+    {
+      "_id": "41g8HWmnm2K67beR",
+      "name": "Quiver, sm (shoulder or hip)",
+      "type": "miscgear",
+      "img": "systems/hm3/images/icons/svg/miscgear.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3-cpl.cpl-hideworker.db.tzDkrKjx1wm85Guw"
+        }
+      },
+      "system": {
+        "notes": "12 arrow capacity, worn over shoulder or on hip",
+        "description": "",
+        "source": "Prices & Weights",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 8,
+        "weight": 3,
+        "isCarried": true,
+        "isEquipped": false,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "BbeJBzsLH8Onsb5m": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.41g8HWmnm2K67beR"
+    },
+    {
+      "_id": "3x37Pm1rbRJ6wbZB",
+      "name": "Belt pouch, leather, med",
+      "type": "containergear",
+      "img": "systems/hm3/images/icons/svg/sack.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.hm3-cpl.cpl-hideworker.db.H9Z3lVTfBn0vTrZX"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "Prices & Weights",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 4,
+        "weight": 0.5,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "capacity": {
+          "max": 3,
+          "value": 0
+        }
+      },
+      "ownership": {
+        "default": 0,
+        "J9LJZfy7UDqGwKQ1": 3,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.3x37Pm1rbRJ6wbZB"
+    },
+    {
+      "_id": "eriS5gQQuMAY1SVF",
+      "name": "Linen Shirt",
+      "type": "armorgear",
+      "img": "systems/hm3/images/icons/svg/shirt.svg",
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {
+        "core": {
+          "sourceId": "Compendium.world.armor-extjson.I3jA28WufYQKIIV9"
+        }
+      },
+      "system": {
+        "notes": "",
+        "description": "",
+        "source": "",
+        "macros": {
+          "type": "script",
+          "command": ""
+        },
+        "quantity": 1,
+        "value": 43,
+        "weight": 3.6,
+        "isCarried": true,
+        "isEquipped": true,
+        "container": "on-person",
+        "arcane": {
+          "isArtifact": false,
+          "isAttuned": false,
+          "charges": -1,
+          "ego": 0
+        },
+        "material": "Cloth",
+        "armorQuality": 0,
+        "locations": [
+          "Forearm",
+          "Elbow",
+          "Upper Arm",
+          "Shoulder",
+          "Thorax",
+          "Abdomen"
+        ],
+        "protection": {
+          "blunt": 1,
+          "edged": 1,
+          "piercing": 1,
+          "fire": 1
+        },
+        "size": 6
+      },
+      "ownership": {
+        "default": 0,
+        "GQFkK1Ng8wDWHlCC": 3
+      },
+      "_stats": {
+        "systemId": null,
+        "systemVersion": null,
+        "coreVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_key": "!actors.items!MLzzfHa8A3VBqyQ2.eriS5gQQuMAY1SVF"
+    }
+  ],
+  "effects": [],
+  "flags": {
+    "scene-packer": {
+      "sourceId": "Actor.v58IrWLjXayUlwbd",
+      "hash": "a4b711a37e78e837345749c5d9995188252e45aa"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-adv-sos.actors.MLzzfHa8A3VBqyQ2"
+    }
+  },
+  "system": {
+    "bioImage": "modules/hm-adv-sos/assets/images/kalas-of-delsin.webp",
+    "species": "Human",
+    "fatigue": 0,
+    "sunsign": "Masara",
+    "abilities": {
+      "strength": {
+        "base": 15
+      },
+      "stamina": {
+        "base": 13
+      },
+      "dexterity": {
+        "base": 15
+      },
+      "agility": {
+        "base": 13
+      },
+      "intelligence": {
+        "base": 10
+      },
+      "aura": {
+        "base": 9
+      },
+      "will": {
+        "base": 13
+      },
+      "eyesight": {
+        "base": 12
+      },
+      "hearing": {
+        "base": 10
+      },
+      "smell": {
+        "base": 10
+      },
+      "voice": {
+        "base": 9
+      },
+      "comeliness": {
+        "base": 13
+      },
+      "morality": {
+        "base": 12
+      }
+    },
+    "move": {
+      "base": 65
+    },
+    "shockIndex": {
+      "max": 100,
+      "value": 100
+    },
+    "description": "<table style=\"user-select: text; width: 95%; color: #191813; font-size: 13px;\" border=\"1\">\n<tbody style=\"box-sizing: border-box; user-select: text;\">\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Apparent Age</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Early 20s</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Culture</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Feudal</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Social Class</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Unguilded</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Height</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">5 feet 11 inches</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Frame</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Medium</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Weight</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">165 lbs</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Appearance/Comeliness</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Dark complexion, Attractive comeliness</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Hair Color</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Brown</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Eye Color</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">Green</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 16px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 16px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Voice</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 16px;\">&nbsp;</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong>Obvious Medical Traits</strong><span style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\" /></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\"><span style=\"box-sizing: border-box; user-select: text;\">None&nbsp;</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong>Apparent Occupation</strong><span style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\" /></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\"><span style=\"box-sizing: border-box; user-select: text;\">Yeoman&nbsp;</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong>Apparent Wealth</strong><span style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\" /></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\"><span style=\"box-sizing: border-box; user-select: text;\">&nbsp;</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong>Weapons</strong><span style=\"box-sizing: border-box; user-select: text;\"><br style=\"box-sizing: border-box; user-select: text;\" /></span></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\"><span style=\"box-sizing: border-box; user-select: text;\">Dagger, Round Shield, Shortbow, Short sword, spear&nbsp;</span></td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Armour</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\">Quilt Cowl and Gambeson, Kurbul halfhelm, leather Guantlets and knee boots, cloth Leggings and Shirt.</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Companions</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\">&nbsp;</td>\n</tr>\n<tr style=\"box-sizing: border-box; user-select: text; height: 23px;\">\n<td style=\"box-sizing: border-box; user-select: text; width: 143.2px; height: 23px;\"><strong><span style=\"box-sizing: border-box; user-select: text;\">Other obvious features</span></strong></td>\n<td style=\"box-sizing: border-box; user-select: text; width: 365.6px; height: 23px;\">&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+    "biography": "<h1>Data</h1>\n<table style=\"width: 95%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Birthdate</strong></td>\n<td style=\"width: 432px;\">23 Navek 697</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Birthplace</strong></td>\n<td style=\"width: 432px;\">Yeashim/Novelim, Asolade Hudred, Oselshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Sibling Rank</strong></td>\n<td style=\"width: 432px;\">3 of 3</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Parent(s)</strong></td>\n<td style=\"width: 432px;\">Fostered - mother dead, father remarried</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Parent Occupation</strong></td>\n<td style=\"width: 432px;\">Yeoman</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Estrangement</strong></td>\n<td style=\"width: 432px;\">Average</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Clanhead</strong></td>\n<td style=\"width: 432px;\">Grandfather</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Medical Traits</strong></td>\n<td style=\"width: 432px;\">None</td>\n</tr>\n<tr>\n<td style=\"width: 143.6px;\"><strong>Psyche Traits</strong></td>\n<td style=\"width: 432px;\">None</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Kalas of Clan Delsin. You will be twenty two years old this year. You had work at Novelim Manor until early in the winter, when your cousin Blyr returned home with his wife.</p>\n<h2>Who are my family?</h2>\n<p>Your father is Symon of Delsin, a yeoman from the manor of Yeashim, you barely know him. You were his third child, and first son, by Janyth, his first wife. Your mother died birthing you. Soon after your birth you were taken from Yeashim to Novelim and fostered with your Uncle Oldron, and his wife.</p>\n<h2>Where am I from?</h2>\n<p>You were born in Yeashim, in the Hundred of Asolade, in the Shire of Osel, in the Kingdom of Kaldor. You were raised by your Uncle Oldron and Aunt Sheryel. You regard your aunt &amp; uncle as your parents. You have no memories of Yeashim.</p>\n<p>Novelim is an ancient settlement, which currently consists of 24 households. Three of the households are guildsmen: a metalsmith, a miller and an ostler. There are also four yeomen farmers, including your Uncle Oldron, who is the village Beadle. For four years you have worked as a guard in the manorhouse. You have accompanied old Sir Terris and his family on several journeys. Last year you went to the fair at Tashal, the furthest from home you&rsquo;ve ever been. However, three months ago your cousin/foster brother Blyr returned home married, with a pregnant wife. He had been working at Jedes as a guard, but had left when he married. Under pressure from your family you left Sir Terris&rsquo; service to allow Blyr to take the post. You travelled to Jedes, but Blyr&rsquo;s guard post had been filled. As winter was setting in, you returned home.</p>\n<h2>Who are my friends?</h2>\n<p>Harlin of Kleve is the same age as you. You have known each other since he arrived in the village seven years ago, as an apprentice to the ostler. He taught you to read and write. Your stepfather thinks that the time you&rsquo;ve spent learning this has been wasted, but you&rsquo;re sure that it&rsquo;s a useful skill. In return, you&rsquo;ve helped Harlin in his spear and shield drills. He&rsquo;s now better than the rest of the militia, but that&rsquo;s not saying much. The only time you&rsquo;ve argued was three years ago, you fell out over Belysa of Marish, the pretty daughter of one of the villeins. You both spent everything you had buying her presents. Then she got work as a servant in the manor house and married the chamberlain, who was twice her age.</p>\n<p>Last autumn a young Peonian priestess named Ryssi of Chert arrived in the village. Over the winter a messenger arrived from Yalen, asking for help. The local priestess sent Ryssi. You needed to get to Jedes to find work, so you volunteered to escort Ryssi to Yalen. En route, you saw a body in the river. You plunged in and hauled him out. It was a hunter named Gorrys of Lunn, he was alive, but barely. Wet, freezing, and caught in the middle of a fierce blizzard; with Ryssi&rsquo;s help you struggled on to Yalen. You spent almost a month in Gorrys&rsquo; fathers house, recuperating. Ryssi and an old monk named Flamal gave you healing herbs &amp; infusions. You owe the Peonians a debt for your recovery.</p>\n<p>While in Yalen you met Lysha of Rakath, an old friend of Gorrys&rsquo;. A yeoman&rsquo;s daughter she wants to become a soldier. You&rsquo;ve seen her shoot, she&rsquo;s a good archer, and she seems like a practical young woman, you like her.</p>\n<h2>What can I do?</h2>\n<p>You&rsquo;ve worked on your stepfather&rsquo;s farm all your life, you know the seasons, the crops and the animals. You can cook and can forage for food. You can identify the blazons of all of the nobles of Asolade Hundred, and a few more besides. You can build shelter in the woods. You can identify many tracks, you can take care of your weapons and you&rsquo;ve got some basic medical knowledge. You&rsquo;re skilled with the dagger, spear, shortsword and round shield, and you can shoot a bow. After some struggle, you have learned your letters and can read.</p>\n<h2>What do I own?</h2>\n<p>You own the clothes that you&rsquo;re wearing: dark blue trousers and a dark green shirt, both of wool; a quilt gambeson and cowl; Leather bracers, gauntlets and knee boots; and a halfhelm with a nasal, made from Kurbul (boiled leather). You own several weapons: a dagger, a short sword, a spear, a short bow with a quiver of twenty arrows, and a round shield. You carry a sack containing a flint and steel, a wool blanket and a red wool tunic. You have three silver pennies in a leather pouch tied to your belt.</p>\n<h2>Where am I going?</h2>\n<p>You tried to find work in Jedes over the winter, but with no success. It is spring and you&rsquo;ve recovered from the chills of winter. Now that the snows have gone, people are on the move once more. There may be work in Jedes now. Tomorrow is market day, a good time to find work.</p>\n<h2>Religion</h2>\n<p>Most people worship gentle Peoni, goddess of healing and agriculture. The nobility, and some yeomen, including your family, worship Larani, goddess of the feudal ideal. There are no temples to Larani in the hundred, you always attend the service at Novelim Manor, Sir Terris has his own Matakea, for the last two years this has been Fryda Vareth, she is young, pretty and inspirational. Services take place on the 5th, 15th and 25th of each month. You always attend.</p>\n<p>You know little of any other gods: Halea is the wanton goddess of profit, pleasure and luck, worshipped by some merchants and city dwellers. Ilvir is the mystic &amp; craven lord. A god of the old ways and old times. Morgath, Naveh and Agrik are the dark gods. All are evil, following them will damn your eternal soul.</p>\n<h2>ASOLADE HUNDRED</h2>\n<h3>Background</h3>\n<p>Asolade Hundred is in the south-western corner of the Kingdom of Kaldor. The Kald River forms the northeastern boundary, the Osel river, the southern boundary. The western part of the hundred is mostly flat and fertile farmland, although low hills separate the farmland along the Kald from the Osel river valley. Almost all of the population live and work in this half of the hundred. The twenty-two settlements are mostly manorial villages, similar to your own home village. The largest settlement is Jedes, with its tall and imposing keep. There is a monastery to the south, Bromeleon contains a large hospital. The monks also maintain a leper colony nearby. There are two mining settlements in the hills, one mines copper, the other is a lead mine. The eastern part of the hundred is heavily forested and sparsely populated.</p>\n<p>Across the Kald river to the north dwell the Kath, fiercely territorial forest dwelling nomadic barbarians. To the north-east lies most of civilised Kaldor. The roads are poor and can be dangerous, but all roads lead to Tashal, the capital, a great city where wise old King Miginath rules. To the east lies Daynora Hundred and Hutop Keep, home of the Sheriff of Osel. The sheriff died over the winter, he has not yet been replaced. To the south lies the Oselmarch, where the fierce cannibal Pagaelin dwell. To the west lie the forests of Evael, home of the elves. A mysterious people, they are a legend across much of H&acirc;rn. Everyone in Asolade knows someone who knows someone who has seen an elf. But no-one can give a good description.</p>\n<h3>Law</h3>\n<p>The manor lords hold court irregularly, they deal with disputes between the serfs in their village. Most of the manor lords owe fealty to Earl Dariune, a mighty lord who lives in a huge castle in far off Kiban. The constable, Sir Shernath Mirdarne, rules Jedes on behalf of the Earl. The constable is a powerful man, able to call upon dozens of knights and men-at-arms. As Earl Dariune&rsquo;s representative in the hundred, he can hold court over his vassals. But he is not above the king&rsquo;s law.</p>\n<p>The representative of the king&rsquo;s law within the hundred is the Bailiff of the Hundred, Sir Arrys Maradyne. The hundred court is held in the hundred moot village of Asolade, after which the hundred is named. Serious disputes may reach the sheriff &rsquo;s court in Hutop, or even the king.</p>",
+    "macros": {
+      "type": "script",
+      "command": ""
+    },
+    "gender": "Male",
+    "occupation": "Yeoman (Light Foot)"
+  },
+  "prototypeToken": {
+    "name": "Kalas",
+    "displayName": 50,
+    "actorLink": true,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": 1,
+    "displayBars": 50,
+    "bar1": {
+      "attribute": "shockIndex"
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "flags": {},
+    "randomImg": false,
+    "light": {
+      "alpha": 0.25,
+      "angle": 360,
+      "bright": 0,
+      "coloration": 1,
+      "dim": 0,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "speed": 5,
+        "intensity": 5,
+        "type": null,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      },
+      "color": null,
+      "attenuation": 0.5
+    },
+    "texture": {
+      "src": "modules/hm-adv-sos/assets/images/kalas-of-delsin-token.webp",
+      "tint": null,
+      "scaleX": 1,
+      "scaleY": 1,
+      "offsetX": 0,
+      "offsetY": 0,
+      "rotation": 0
+    },
+    "sight": {
+      "angle": 360,
+      "enabled": true,
+      "range": 0,
+      "brightness": 1,
+      "color": null,
+      "attenuation": 0.1,
+      "saturation": 0,
+      "contrast": 0,
+      "visionMode": "basic"
+    }
+  },
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659200490524,
+    "modifiedTime": 1659200490524,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "_key": "!actors!MLzzfHa8A3VBqyQ2"
+}

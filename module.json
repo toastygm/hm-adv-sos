@@ -1,9 +1,8 @@
 {
   "id": "hm-adv-sos",
-  "name": "hm-adv-sos",
   "title": "A Shower of Silver",
   "description": "An introductory murder-mystery adventure for Hârn, located around Jedes keep in the kingdom of Kaldor",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "bugs": "https://github.com/toastygm/hm-adv-sos/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -14,10 +13,9 @@
       "flags": {}
     }
   ],
-  "minimumCoreVersion": "10",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "12.331"
   },
   "scripts": [
     "scripts/init.js"
@@ -27,12 +25,14 @@
       {
         "id": "hm-loc-jedes",
         "type": "module",
-        "manifest": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.json"
+        "manifest": "https://github.com/toastygm/hm-loc-jedes/releases/latest/download/module.json",
+        "compatibility": {}
       },
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
       }
     ]
   },
@@ -40,29 +40,41 @@
     {
       "label": "A Shower of Silver - Actors",
       "name": "actors",
-      "path": "packs/actors.db",
+      "path": "packs/actors",
       "system": "hm3",
       "type": "Actor",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "A Shower of Silver - Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db",
+      "path": "packs/scenes",
       "type": "Scene",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "A Shower of Silver - Journals",
       "name": "journals",
-      "path": "packs/journals.db",
+      "path": "packs/journals",
       "type": "JournalEntry",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "https://github.com/toastygm/hm-adv-sos/",
   "manifest": "https://github.com/toastygm/hm-adv-sos/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-adv-sos/releases/download/v1.1.4/module.zip",
+  "download": "https://github.com/toastygm/hm-adv-sos/releases/download/v1.2.0/module.zip",
   "flags": {
     "allowBugReporter": true
   }

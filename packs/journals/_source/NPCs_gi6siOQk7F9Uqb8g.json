@@ -1,0 +1,162 @@
+{
+  "name": "NPCs",
+  "pages": [
+    {
+      "name": "NPC: Lady Helarn Poutry Image",
+      "src": "modules/hm-adv-sos/assets/images/lady-helarn-poutry.webp",
+      "type": "image",
+      "image": {
+        "caption": "NPC: Lady Helarn Poutry"
+      },
+      "_id": "RoOBoSp39y7Nz8PK",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!gi6siOQk7F9Uqb8g.RoOBoSp39y7Nz8PK"
+    },
+    {
+      "name": "NPC: Sir Jasyff Mazerony Image",
+      "src": "modules/hm-adv-sos/assets/images/sir-jasyff-mazerony.webp",
+      "type": "image",
+      "image": {
+        "caption": "NPC: Sir Jasyff Mazerony"
+      },
+      "_id": "smkCpffakphXZefb",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!gi6siOQk7F9Uqb8g.smkCpffakphXZefb"
+    },
+    {
+      "name": "NPC: Sir Shernath Mirdarne Image",
+      "src": "modules/hm-adv-sos/assets/images/sir-shernath-mirdarne.webp",
+      "type": "image",
+      "image": {
+        "caption": "NPC: Sir Shernath Mirdarne"
+      },
+      "_id": "qy8E9pQ0xm20JKfb",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!gi6siOQk7F9Uqb8g.qy8E9pQ0xm20JKfb"
+    },
+    {
+      "name": "NPC: Sir Tamys Poulty Image",
+      "src": "modules/hm-adv-sos/assets/images/sir-tamys-poulty.webp",
+      "type": "image",
+      "image": {
+        "caption": "NPC: Sir Tamys Poulty"
+      },
+      "_id": "LYvvkY3CjQPrWOQd",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!gi6siOQk7F9Uqb8g.LYvvkY3CjQPrWOQd"
+    },
+    {
+      "name": "NPC: Straken of Ornelt Image",
+      "src": "modules/hm-adv-sos/assets/images/straken-of-ornelt.webp",
+      "type": "image",
+      "image": {
+        "caption": "NPC: Straken of Ornelt"
+      },
+      "_id": "kwVpZahWOakKcLbC",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!gi6siOQk7F9Uqb8g.kwVpZahWOakKcLbC"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659200476760,
+    "modifiedTime": 1659200476760,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "gi6siOQk7F9Uqb8g",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!gi6siOQk7F9Uqb8g"
+}

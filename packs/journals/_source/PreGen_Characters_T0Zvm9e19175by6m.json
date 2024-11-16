@@ -1,0 +1,370 @@
+{
+  "name": "PreGen Characters",
+  "pages": [
+    {
+      "name": "Character: Gorrys of Lunn Image",
+      "src": "modules/hm-adv-sos/assets/images/gorrys-of-lunn.webp",
+      "type": "image",
+      "image": {
+        "caption": "Character: Gorrys of Lunn"
+      },
+      "_id": "WkquX4EFYi0EGwFD",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.WkquX4EFYi0EGwFD"
+    },
+    {
+      "name": "Character: Gorrys of Lunn",
+      "src": "modules/hm-adv-sos/assets/images/gorrys-of-lunn.webp",
+      "type": "text",
+      "image": {
+        "caption": "Character: Gorrys of Lunn"
+      },
+      "_id": "1chBUmLbIE7JNeAy",
+      "text": {
+        "content": "<p><img src=\"modules/hm-adv-sos/assets/images/gorrys-of-lunn-headshot.webp\" width=\"290\" height=\"194\" /></p>\n<h1>Data</h1>\n<table style=\"width:95%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthdate</strong></td>\n<td style=\"width:432px\">27 Nuzyael 699</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthplace</strong></td>\n<td style=\"width:432px\">Yalen, Asolade Hundred, Oselshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Sibling Rank</strong></td>\n<td style=\"width:432px\">1 of 5</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent(s)</strong></td>\n<td style=\"width:432px\">Offspring - Both Parents Living</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent Occupation</strong></td>\n<td style=\"width:432px\">Hideworker</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Estrangement</strong></td>\n<td style=\"width:432px\">Popular</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Clanhead</strong></td>\n<td style=\"width:432px\">Uncle</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Medical Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Psyche Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Gorrys of Clan Lunn. You will be twenty-one years old this year. You could have been a hideworker, like your father, but the outdoor life called to you. You have been following your Uncle Barth into the woods since your early teens, and have been taught to hunt, track and trap by him.</p>\n<h2>Who are my family?</h2>\n<p>Your father is Halyr of Lunn, Master Hideworker of the village of Yalen. He tans hides and makes shoes, boots and leather clothing. Your father made most of what you wear. Your mother is Lelyn. You have two sisters. Tarissa is nearly nineteen and betrothed to the woodcrafter’s apprentice. Mysha is seventeen, pretty, and shy. You also have two brothers. Rayal is fifteen, unlike you he wanted to follow your father’s profession, he has already left home. As is customary, he has been apprenticed to another hideworker, in the village of Bory. Your youngest brother is Takaryn, he is only seven.</p>\n<h2>Where am I from?</h2>\n<p>You were born and raised in Yalen, in the Hundred of Asolade, in the Shire of Osel, in the Kingdom of Kaldor. Yalen is a small village of only sixteen households, plus the nobles up at the manor. Yalen lies on the south bank of the mighty river Kald. It is a short (30 minute) walk to the town of Jedes. Your family is one of four free families in the village; the others are the woodcrafter, and two yeomen. The remaining residents are peasant farmers; good folk in the main, but tied to the land. The Lord of Yalen Manor is now Sir Alarn Orteyan. He inherited the fief over the winter, on the death of his father, Sir Darnard. You grew up in the village and know everyone by name.</p>\n<h2>Who are my friends?</h2>\n<p>You’ve been friends with Lysha of Rykath since you were both children. Like you she’s the eldest of five children. Lysha is blonde haired and blue eyed and is a few months older than you. Her father is a yeoman; he provides military service to the Lord of Yalen in return for his land. He serves as an archer, using the short forest bow common across the hundred. Lysha has always been a tomboy. Her father thought that she’d grow out of playing yeoman, but she didn’t.</p>\n<p>Lysha has had a scar across her left cheek since she was fifteen. She set off a trap in the woods that flung a sharp flint when triggered; it narrowly missed her eye. Your guilty secret is that you set the trap, though simply as practice, you did not intend to hurt anyone. Fortunately, she doesn’t know that you’re responsible for her scar.</p>\n<p>While out setting snares over the winter you fell into the Kald; you misjudged the edge of the river in the snow. Kalas of Delsin a yeoman from Novelim (the manor of Sir Alarn’s liege, about one league downstream) hauled you out. Wet, freezing, and caught in the middle of a fierce blizzard; he probably saved your life. Kalas and the Peonian Priestess he was escorting, Ryssi of Chert, brought you home. Both Kalas and you spent a month in your fathers house, recuperating. Ryssi and the old monk Flamal, who is now the village priest gave you both healing herbs &amp; infusions. You are indebted to the church for their assistance.</p>\n<h2>What can I do?</h2>\n<p>Over the years you have picked up some skills from your father, you can skin and tan hides, and can sew. But you have learnt most from your uncle. You can forage for food. You know the tracks and spoor of local animals, deer, bear, boar, badger, fox and the like. You can set snares and traps for rabbits, hares, and other small game. You have a little knowledge of local herbs and can make shelter and fire in the woods and forests. You can make and fletch arrows. You are young, fit, and strong willed.</p>\n<h2>What do I own?</h2>\n<p>You own the clothes that you’re wearing: a homespun woollen shirt and leather trousers, calf boots, gauntlets, coat and cowl. Your leather clothing was provided by your father, your gauntlets are pigskin, made from the skin of a young wild boar you killed. The remaining leather garments are all leather from local cattle.</p>\n<p>You own a dagger, a short forest bow, a 6’ spear and a box quiver containing twenty arrows. You have three rabbits, caught, skinned and gutted last night. The flesh and fur can be bartered. A leather pouch tied to your belt contains your monetary wealth, one silver penny, it also contains a flint and steel. A rough canvas sack contains spare clothes, a second shirt and a pair of wool trousers.</p>\n<h2>Where am I going?</h2>\n<p>You helped your uncle for many years. He acted as huntsman and beater for Sir Danard Orteyan. Unfortunately, Sir Danard died over the winter, despite the ministrations of Ryssi of Chert. Shortly after his death, Sir Danard’s son, Sir Alarn summoned both you and your uncle to the manor to tell you that he no longer required your services. Your uncle has since found work in Yeashim, but Sir Yenin Ercamber, the Lord of Yeashim wanted only one hunter. A discussion with your father and uncle has resulted in you leaving Yalen to walk to Jedes, it is the largest settlement for many leagues. There is a market in Jedes four times each month. The next one is tomorrow. It is possible that Kalas, Lysha and Kalas’ friend Harlin will go with you to find work.</p>\n<h2>Religion</h2>\n<p>Most people, including you, worship gentle Peoni, goddess of healing and agriculture. Almost every village has a chapel to the goddess. Her services take place on the 4th, 12th, 20th &amp; 28th of each month. You usually attend the service.</p>\n<p>The nobles worship Larani, goddess of the feudal ideal. She is regarded by many as the protector of Peoni.</p>\n<p>You know a little of any other gods: Halea is the wanton goddess of profit, pleasure and luck, worshipped by some merchants and city dwellers. Ilvir is the mystic &amp; craven lord. A god of the old ways and old times. Morgath, Naveh and Agrik are the dark gods. All are evil, following them will damn your eternal soul.</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.1chBUmLbIE7JNeAy"
+    },
+    {
+      "name": "Character: Harlin of Kleve Image",
+      "src": "modules/hm-adv-sos/assets/images/harlin-of-kleve.webp",
+      "type": "image",
+      "image": {
+        "caption": "Character: Harlin of Kleve"
+      },
+      "_id": "dmHek4qHAgoPq7gl",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.dmHek4qHAgoPq7gl"
+    },
+    {
+      "name": "Character: Harlin of Kleve",
+      "src": "modules/hm-adv-sos/assets/images/harlin-of-kleve.webp",
+      "type": "text",
+      "image": {
+        "caption": "Character: Harlin of Kleve"
+      },
+      "_id": "ERbBKBSaIQCvbWYt",
+      "text": {
+        "content": "<p><img src=\"modules/hm-adv-sos/assets/images/harlin-of-kleve-headshot.webp\" width=\"226\" height=\"161\" /></p>\n<h1>Data</h1>\n<table style=\"width:95%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthdate</strong></td>\n<td style=\"width:432px\">30 Kelen 698</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthplace</strong></td>\n<td style=\"width:432px\">Skaist, Asolade Hundred, Oselshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Sibling Rank</strong></td>\n<td style=\"width:432px\">5 of 6</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent(s)</strong></td>\n<td style=\"width:432px\">Offspring - Both Living</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent Occupation</strong></td>\n<td style=\"width:432px\">Ostler</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Estrangement</strong></td>\n<td style=\"width:432px\">Popular</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Clanhead</strong></td>\n<td style=\"width:432px\">Uncle</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Medical Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Psyche Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Harlin of Clan Kleve. You are twenty-one years old and hold guild papers as a journeyman ostler. You have lived with horses all of your life, Who are my family?</p>\n<p>Your father is Farrath of Kleve, free master ostler from the village of Skaist. He breeds and breaks horses, he also stables, grooms, and shoes. Your mother is Sallas, you are the fifth of six children. Your eldest brother, Skort, is ten years your senior. He is married with two young children. Skort is the senior journeyman to your father and there is little doubt that he will eventually inherit the guild franchise. Your eldest sister is Jahna, she ran off with a group of travelling players when she was eighteen. Skort, then twenty, tracked her down, but she refused to return. You’ve heard that Jahna is a fine singer and that the troupe is well respected. They have even played before the king. Gordyn is your next brother, aged twenty-six, he is now a master ostler, bonded to the Bailiff of the Hundred of Asolade. Twenty three year old Vergyl is married and pregnant, she married the village metalsmith, a widower seven years her senior, only last year. Your youngest sister is Alayna; five years your junior.</p>\n<h2>Where am I from?</h2>\n<p>You were born and raised in Skaist, a village of twentytwo households in the Hundred of Asolade, in the Shire of Osel, in the kingdom of Kaldor. Skaist, and another fourteen households, which form the hamlet of Deshines, about a quarter-league away, are ruled by a bailiff from Skaist manor. The Lord Bailiff of Skaist is Sir Garith Kaphin, one of his cousins is the king’s Lord Privy Seal and, rumour has it, mistress. Your family is one of eight free families in the two villages. There are four guild clans, your own, the miller, the metalsmith, and the charcoaler, plus four yeomen. The remaining residents are peasant farmers, good folk in the main, but tied to the land. You grew up in Skaist and lived there until you were fourteen.</p>\n<p>In your fourteenth year your father arranged an apprenticeship for you. You were taken to Novelim, three leagues to the west, where you were introduced to the master ostler Yerick of Ubel. Yerick breeds ponies, mules and donkeys, not fine palfreys like your father. Novelim is about the same size as Skaist, twenty-four households, the manor lord is Sir Terris Doulzarn, one of the wealthiest nobles in the hundred.</p>\n<h2>Who are my friends?</h2>\n<p>You have been in Novelim for seven years, during this time you have become familiar with the village and its inhabitants. You have made a few friends, among them is the adopted son of one of the yeomen, Kalas of Delsin. Kalas is the same age as you, he was trained in arms by his foster-father. Over the years you’ve taught him to read and write. He is fascinated by this skill. In return, he’s helped you with your spear and shield drills. The only time you’ve argued was three years ago, you fell out over Belysa of Marish, the pretty daughter of one of the villeins. You stopped speaking to each other, and both of you spent everything you had buying her presents. Then she got work as a servant in the manorhouse; and married the chamberlain, who was twice her age.</p>\n<p>Last autumn a young Peonian priestess arrived in the village, you got on well with her. Her name was Ryssi of Chert. Almost a month ago she left for Yalen, accompanied by Kalas. She did not return.</p>\n<h2>What can I do?</h2>\n<p>You have few skills, but the ones that you have, you are good at. You can make leather goods, repair saddles and bridles, you are an expert in horses and horse care and you’re a good horse rider.</p>\n<p>Since arriving in Novelim you’ve taken to swimming in the river Kald, while hardly an expert, you can safely splash your way from one side of the river to the other.</p>\n<p>Your father taught you your letters. Your master continued the lessons. You can read and write. Most of what you write is bloodlines for horses. All of the local ostlers keep a careful written record of breeding.</p>\n<p>You’ve been in the militia for seven years. This involves practicing weapon drills with the local yeomen, four times each month. You know which end of a spear is which, but you know that you’re no expert, and you’ve never seen combat.</p>\n<h2>What do I own?</h2>\n<p>You own the clothes that you’re wearing: a good, red dyed cloth shirt; leather riding breeches and calf boots; and a quilt aketon and cowl. You own a dagger plus your ‘militia’ weapons, a spear and a roundshield. You also own a few tools, a shoeing hammer and a horse comb amongst them. You have twelve pennies in coin in a pouch in your belt, and you have a green woollen tunic and brown trousers, your best clothes, in a sack.</p>\n<h2>Where am I going?</h2>\n<p>As a journeyman Ostler you can look for employment with any Master Ostler. Unfortunately, so far as you know, none of the masters within the Hundred are currently looking for staff. Jedes is not a very big place, but it’s the biggest place within a days walk. Tomorrow is market day and there may be work to be had.</p>\n<h2>Religion</h2>\n<p>Most people, including you, worship gentle Peoni, goddess of healing and agriculture. Almost every village has a chapel to the goddess. Her services take place on the 4th, 12th, 20th &amp; 28th of each month. You usually attend the service.</p>\n<p>The nobles worship Larani, goddess of the feudal ideal. She is regarded by many as the protector of Peoni.</p>\n<p>You know a little of any other gods: Halea is the wanton goddess of profit, pleasure and luck, worshipped by some merchants and city dwellers. Ilvir is the mystic &amp; craven lord. A god of the old ways and old times. Morgath, Naveh and Agrik are the dark gods. All are evil, following them will damn your eternal soul.</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.ERbBKBSaIQCvbWYt"
+    },
+    {
+      "name": "Character: Kalas of Delsin Image",
+      "src": "modules/hm-adv-sos/assets/images/kalas-of-delsin.webp",
+      "type": "image",
+      "image": {
+        "caption": "Character: Kalas of Delsin"
+      },
+      "_id": "aRt8fCwG2pTjvVRW",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.aRt8fCwG2pTjvVRW"
+    },
+    {
+      "name": "Character: Kalas of Delsin",
+      "src": "modules/hm-adv-sos/assets/images/kalas-of-delsin.webp",
+      "type": "text",
+      "image": {
+        "caption": "Character: Kalas of Delsin"
+      },
+      "_id": "wUAH2d8Xk1uLkejk",
+      "text": {
+        "content": "<p><img src=\"modules/hm-adv-sos/assets/images/kalas-of-delsin-headshot.webp\" width=\"190\" height=\"162\" /></p>\n<h1>Data</h1>\n<table style=\"width:95%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthdate</strong></td>\n<td style=\"width:432px\">23 Navek 697</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthplace</strong></td>\n<td style=\"width:432px\">Yeashim/Novelim, Asolade Hudred, Oselshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Sibling Rank</strong></td>\n<td style=\"width:432px\">3 of 3</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent(s)</strong></td>\n<td style=\"width:432px\">Fostered - mother dead, father remarried</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent Occupation</strong></td>\n<td style=\"width:432px\">Yeoman</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Estrangement</strong></td>\n<td style=\"width:432px\">Average</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Clanhead</strong></td>\n<td style=\"width:432px\">Grandfather</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Medical Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Psyche Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Kalas of Clan Delsin. You will be twenty two years old this year. You had work at Novelim Manor until early in the winter, when your cousin Blyr returned home with his wife.</p>\n<h2>Who are my family?</h2>\n<p>Your father is Symon of Delsin, a yeoman from the manor of Yeashim, you barely know him. You were his third child, and first son, by Janyth, his first wife. Your mother died birthing you. Soon after your birth you were taken from Yeashim to Novelim and fostered with your Uncle Oldron, and his wife.</p>\n<h2>Where am I from?</h2>\n<p>You were born in Yeashim, in the Hundred of Asolade, in the Shire of Osel, in the Kingdom of Kaldor. You were raised by your Uncle Oldron and Aunt Sheryel. You regard your aunt &amp; uncle as your parents. You have no memories of Yeashim.</p>\n<p>Novelim is an ancient settlement, which currently consists of 24 households. Three of the households are guildsmen: a metalsmith, a miller and an ostler. There are also four yeomen farmers, including your Uncle Oldron, who is the village Beadle. For four years you have worked as a guard in the manorhouse. You have accompanied old Sir Terris and his family on several journeys. Last year you went to the fair at Tashal, the furthest from home you’ve ever been. However, three months ago your cousin/foster brother Blyr returned home married, with a pregnant wife. He had been working at Jedes as a guard, but had left when he married. Under pressure from your family you left Sir Terris’ service to allow Blyr to take the post. You travelled to Jedes, but Blyr’s guard post had been filled. As winter was setting in, you returned home.</p>\n<h2>Who are my friends?</h2>\n<p>Harlin of Kleve is the same age as you. You have known each other since he arrived in the village seven years ago, as an apprentice to the ostler. He taught you to read and write. Your stepfather thinks that the time you’ve spent learning this has been wasted, but you’re sure that it’s a useful skill. In return, you’ve helped Harlin in his spear and shield drills. He’s now better than the rest of the militia, but that’s not saying much. The only time you’ve argued was three years ago, you fell out over Belysa of Marish, the pretty daughter of one of the villeins. You both spent everything you had buying her presents. Then she got work as a servant in the manor house and married the chamberlain, who was twice her age.</p>\n<p>Last autumn a young Peonian priestess named Ryssi of Chert arrived in the village. Over the winter a messenger arrived from Yalen, asking for help. The local priestess sent Ryssi. You needed to get to Jedes to find work, so you volunteered to escort Ryssi to Yalen. En route, you saw a body in the river. You plunged in and hauled him out. It was a hunter named Gorrys of Lunn, he was alive, but barely. Wet, freezing, and caught in the middle of a fierce blizzard; with Ryssi’s help you struggled on to Yalen. You spent almost a month in Gorrys’ fathers house, recuperating. Ryssi and an old monk named Flamal gave you healing herbs &amp; infusions. You owe the Peonians a debt for your recovery.</p>\n<p>While in Yalen you met Lysha of Rakath, an old friend of Gorrys’. A yeoman’s daughter she wants to become a soldier. You’ve seen her shoot, she’s a good archer, and she seems like a practical young woman, you like her.</p>\n<h2>What can I do?</h2>\n<p>You’ve worked on your stepfather’s farm all your life, you know the seasons, the crops and the animals. You can cook and can forage for food. You can identify the blazons of all of the nobles of Asolade Hundred, and a few more besides. You can build shelter in the woods. You can identify many tracks, you can take care of your weapons and you’ve got some basic medical knowledge. You’re skilled with the dagger, spear, shortsword and round shield, and you can shoot a bow. After some struggle, you have learned your letters and can read.</p>\n<h2>What do I own?</h2>\n<p>You own the clothes that you’re wearing: dark blue trousers and a dark green shirt, both of wool; a quilt gambeson and cowl; Leather bracers, gauntlets and knee boots; and a halfhelm with a nasal, made from Kurbul (boiled leather). You own several weapons: a dagger, a short sword, a spear, a short bow with a quiver of twenty arrows, and a round shield. You carry a sack containing a flint and steel, a wool blanket and a red wool tunic. You have three silver pennies in a leather pouch tied to your belt.</p>\n<h2>Where am I going?</h2>\n<p>You tried to find work in Jedes over the winter, but with no success. It is spring and you’ve recovered from the chills of winter. Now that the snows have gone, people are on the move once more. There may be work in Jedes now. Tomorrow is market day, a good time to find work.</p>\n<h2>Religion</h2>\n<p>Most people worship gentle Peoni, goddess of healing and agriculture. The nobility, and some yeomen, including your family, worship Larani, goddess of the feudal ideal. There are no temples to Larani in the hundred, you always attend the service at Novelim Manor, Sir Terris has his own Matakea, for the last two years this has been Fryda Vareth, she is young, pretty and inspirational. Services take place on the 5th, 15th and 25th of each month. You always attend.</p>\n<p>You know little of any other gods: Halea is the wanton goddess of profit, pleasure and luck, worshipped by some merchants and city dwellers. Ilvir is the mystic &amp; craven lord. A god of the old ways and old times. Morgath, Naveh and Agrik are the dark gods. All are evil, following them will damn your eternal soul.</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.wUAH2d8Xk1uLkejk"
+    },
+    {
+      "name": "Character: Lysha of Rakath Image",
+      "src": "modules/hm-adv-sos/assets/images/lysha-of-rakath.webp",
+      "type": "image",
+      "image": {
+        "caption": "Character: Lysha of Rakath"
+      },
+      "_id": "rQU4z7BR1G9nmPPt",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.rQU4z7BR1G9nmPPt"
+    },
+    {
+      "name": "Character: Lysha of Rakath",
+      "src": "modules/hm-adv-sos/assets/images/lysha-of-rakath.webp",
+      "type": "text",
+      "image": {
+        "caption": "Character: Lysha of Rakath"
+      },
+      "_id": "zDU7GDHh7zBj6iqK",
+      "text": {
+        "content": "<p><img src=\"modules/hm-adv-sos/assets/images/lysha-of-rakath-headshot.webp\" width=\"204\" height=\"156\" /></p>\n<h1>Data</h1>\n<table style=\"width:95%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthdate</strong></td>\n<td style=\"width:432px\">10 Agrazhar 698</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthplace</strong></td>\n<td style=\"width:432px\">Yalen, Asolade Hundred, Oselshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Sibling Rank</strong></td>\n<td style=\"width:432px\">1 of 5</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent(s)</strong></td>\n<td style=\"width:432px\">Offspring - Both parents living</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent Occupation</strong></td>\n<td style=\"width:432px\">Yeoman</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Estrangement</strong></td>\n<td style=\"width:432px\">Average</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Clanhead</strong></td>\n<td style=\"width:432px\">Father</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Medical Traits</strong></td>\n<td style=\"width:432px\">Scar across left cheek</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Psyche Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Lysha of Clan Rakath. Twenty-one years old and unmarried, many people already regard you as an old maid. You could have been married and raising babies by now. You’re not concerned, you want to be a soldier.</p>\n<h2>Who are my family?</h2>\n<p>Your father is Dikel of Rakath, yeoman archer. He is an excellent marksman with the short forest bow, which is in common use across the hundred. He provides military service to Sir Alarn Orteyan, Lord of Yalen in return for his land. He is both farmer and warrior. When you were young he humoured you when you asked, and taught you to shoot the bow and to fight with falchion and shield. Your mother is Nala, she is the best alewife in the village. You have three brothers. Uthber is now nineteen and next year he will carry out the military duties; something you were forbidden from doing. This will allow your father to concentrate on the farm. Dybal is fourteen and cheeky. Hiu is thirteen. You also have a sister, Marila, aged twelve. She likes housework, and playing with dolls, she’s a strange girl in your opinion.</p>\n<h2>Where do I come from?</h2>\n<p>You were born and raised in Yalen, in the Hundred of Asolade, in the Shire of Osel, in the Kingdom of Kaldor. Yalen is a small village of only sixteen families, plus the noble household up at the manor. Yalen lies on the south bank of the mighty river Kald. Your family is one of four free families in the village; the others are the woodcrafter, the hideworker and another yeomen. The remaining residents are peasant farmers, good folk in the main, but tied to the land. The lord of Yalen Manor is Sir Alarn Orteyan. He holds his lands from Clan Doulzarn of Novelim Manor. Sir Alarn is a new lord, he inherited the manor when his father died over the winter. He’s making changes and many local serfs are nervous. You grew up in the village and know everyone by name. You know the road south to Novelim. It is only a thirty minute walk from Yalen to Jedes, the largest settlement in the hundred. You have been many times, usually on market days. You have also been inside Jedes Keep, to attend the services to your goddess, Larani.</p>\n<h2>Who are my friends?</h2>\n<p>You’ve been friends with Gorrys of Lunn since you could walk. He’s a good hunter, tracker and trapper. He set the trap that gave you the scar on your cheek. You set off the trap and it flung a sharp flint when triggered; it narrowly missed your eye. You know that it wasn’t meant for you, but you’ve never told him that you know that he was responsible. It happened more than five years ago, he’s probably long forgotten about it. Gorrys nearly died over the winter. He fell in to the river. A yeomans’ son called Kalas of Delsin and a young Peonian priestess young men, both chilled and feverish, with Gorrys’ parents, and went to the manor to tend the ailing Sir Danard. She returned often to check on them, but left when old Sir Danard died. You’ve grown quite fond of Kalas too, he’s rather good looking, and he’s always nice to you.</p>\n<h2>What can I do?</h2>\n<p>You’ve worked on your fathers’ farm all your life, you know the seasons, the crops and the animals. You’ve helped look after your younger siblings. You can forage for food. You can identify the blazons of all of the nobles of Asolade Hundred, and a few more besides. You can build shelter in the woods. You can identify many tracks, you can take care of your weapons and you’re a good judge of the weather. You can make and fletch arrows and yours fly more true than Gorrys’. You’re quick and accurate with the dagger and reasonably skilled with falchion and shield. Last year you entered the archery contest at Dagrath’s Tourney. You didn’t win, but you scored more than your father and your brother, you were fifth in the contest and reckon yourself to be a good shot. You are young, fit, and sharp eyed.</p>\n<h2>What do I own?</h2>\n<p>You own the clothes that you’re wearing: a dark green kirtle (a sleeved dress falling to below the knees); a light green hood; and brown trousers; all of homespun wool. You also have a well worn leather great coat, hood, calf boots, bracers and gauntlets, all made by Gorrys’ father. You have your bow and arrows and a dagger. Your father has given you his old falchion (a heavy single edged sword); you spent most of last night sharpening it. He also gave you a battered, but serviceable buckler. Your mother has given you six silver pennies, and told you that you’ll always be welcome home, no matter what. A leather pouch tied to your belt contains the six silver pennies you’ve been given and a flint and steel. A rough canvas sack contains your spare clothes, a blue wool tunic and a sleeved, ankle length red wool dress, embroidered around the cuffs by your mother. It also contains a wool blanket.</p>\n<h2>Where am I going?</h2>\n<p>Yesterday Gorrys told you that he was leaving for Jedes, to look for work. Kalas and a friend of his, Harlin are probably going too. You’ve wanted to leave home for some time, so you persuaded your family to let you go. After all, there may be four of you travelling together. There must be more to the world than Yalen.</p>\n<h2>Religion</h2>\n<p>Most people worship gentle Peoni, goddess of healing and agriculture. Almost every village has a chapel to the goddess.</p>\n<p>The nobility, and some yeomen (including your family) worship Larani, goddess of the feudal ideal. There are no temples to Larani in the hundred, you attend the service either at Novelim manor to the south west, or at the chapel within Jedes Keep. The Matakea (priestess) at Novelim is young and inspirational. Larani was a warrior woman. There is no reason why you should not be the same. The Matakea at Jedes is old and chastening. Services take place on the 5th, 15th and 25th of each month. You always attend one, usually two services a month.</p>\n<p>You know little of any other gods: Halea is the wanton goddess of profit, pleasure and luck, worshipped by some merchants and city dwellers. Ilvir is the mystic &amp; craven lord. A god of the old ways and old times. Morgath, Naveh and Agrik are the dark gods. All are evil, following them will damn your eternal soul.</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.zDU7GDHh7zBj6iqK"
+    },
+    {
+      "name": "Character: Ondren of Lemra Image",
+      "src": "modules/hm-adv-sos/assets/images/ondren-of-lemra.webp",
+      "type": "image",
+      "image": {
+        "caption": "Character: Ondren of Lemra"
+      },
+      "_id": "Z9vcrGjUopHhKBn5",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.Z9vcrGjUopHhKBn5"
+    },
+    {
+      "name": "Character: Ondren of Lemra",
+      "src": "modules/hm-adv-sos/assets/images/ondren-of-lemra.webp",
+      "type": "text",
+      "image": {
+        "caption": "Character: Ondren of Lemra"
+      },
+      "_id": "e9Mx6hN3dpPx7AKo",
+      "text": {
+        "content": "<p><img src=\"modules/hm-adv-sos/assets/images/ondren-of-lemra-headshot.webp\" width=\"194\" height=\"158\" /></p>\n<h1>Data</h1>\n<table style=\"width:95%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthdate</strong></td>\n<td style=\"width:432px\">10 Larane 697</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthplace</strong></td>\n<td style=\"width:432px\">Litchton, Daynora Hundred, Oselshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Sibling Rank</strong></td>\n<td style=\"width:432px\">6 of 8</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent(s)</strong></td>\n<td style=\"width:432px\">Offspring - Mother dead</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent Occupation</strong></td>\n<td style=\"width:432px\">Freehold Farmer</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Estrangement</strong></td>\n<td style=\"width:432px\">Unpopular</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Clanhead</strong></td>\n<td style=\"width:432px\">Uncle</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Medical Traits</strong></td>\n<td style=\"width:432px\">Scars on both arms</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Psyche Traits</strong></td>\n<td style=\"width:432px\">None</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Ondren of Clan Lemra. You will be twenty three years old this summer and you have yet to settle down. You could have stayed a peasant farmer, but you wanted more. At fifteen you ran away from home, leaving your family to pay the fines levied for your disappearance. You reached the relative safety of the mines, and joined the Miners Guild.</p>\n<h2>Who are my family?</h2>\n<p>Your father is Marrath of Lemra, peasant farmer in the village of Litchton. He is tied to the land, like the rest of your clan. He provides goods and labour to the manor lord in return for protection. You are the sixth of eight children. Your mother died bearing her ninth child when you were eight years old. The baby, a boy, was stillborn.</p>\n<h2>Where am I from?</h2>\n<p>You were born and raised in Litchton, in the Hundred of Daynora, in the Shire of Osel, in the Kingdom of Kaldor. Litchton is a large and fertile village of thirty five households. From your early childhood you have been involved in farming. At the age of fifteen, you decided that you’d had enough. Your prospects weren’t good, far too many older brothers meant you’d probably be reduced to labouring, never getting your own land. The best solution seemed to be to escape and find a new life as a freeman. So you ran away. Eight years ago, you knew everyone in Litchton by name; you’ve since lost touch.</p>\n<p>You headed west, and soon reached the mine at Tasinald, where you could earn your freedom as a miner. Because of your short stature, you were given the tight spaces to work in. You were renamed ‘Ondren the Eel.’ The work was hard, but you’re very strong for your size. A freeman at last, you worked hard and played hard. You’d take your turn escorting the ore wagons to Jedes, spend your pay on drink, and end up in the arms of Tryssa of Dryt, the local whore. Nine months ago you knew everyone at Tasinald. Then there was a cave-in. You were trapped, both forearms caught in the rubble, the corpse of your friend Taerth lying across your chest. You were like that, alone, conscious and in pain, in the darkness for what seemed like forever. It was actually only half a day. You, and two other survivors were pulled out and taken to the moot hall. Six miners had died. Three Reslava (priestesses) of Peoni, who had been en route to the monastery at Bromeleon looked after the injured. Two lads sent by the guild master to get help had found them on the Gibbet Trail between Hutop and Jedes. The youngest Priestess, Ryssi of Chert, stayed until all three of you had recovered.</p>\n<p>On your first day back at work you got a few yards into the drift, but could go no further. You began to sweat, your legs locked, and you had to be led out. You tried several more times, but you cannot enter a mine. Out of work, you briefly returned to Litchton. Fortunately, the new bailiff was not interested in your former status, but your family had grown and changed over the years. You were tolerated as a guest, but the atmosphere was awkward. You soon realised that you were no great farmer, and that you might outstay your welcome. You travelled to Hutop and managed to find work as a mercenary, so for the late summer and autumn you travelled from Hutop to Oselbridge, taking supplies to the trading post and escorting caravans through Pagaelin lands, you’ve seen some action against the vicious Pagaelin barbarians. Never trust a Pagealin, unless he’s dead. Even then it’s best to spear him to make sure.</p>\n<h2>Who are my friends?</h2>\n<p>You have no close friends. Last night you stayed in the village of Calsite, asking hospitality of the Peonian Priestess to save your meagre funds. You chopped firewood for her until dusk, as payment. When you returned to the chapel you were surprised to see the young Reslava, Ryssi of Chert, was also there. You were also surprised that she recognised you, and remembered your name. Over an evening meal she told you that she has a message for the constable at Jedes, the two of you will be travelling together.</p>\n<h2>What can I do?</h2>\n<p>Born and raised on a farm, you still have a good working knowledge of crops, livestock and the farming seasons. You’ve picked up engineering, mining, wood and metalworking skills from your years at Tasinald and you’ve recently become fairly handy with falchion, shield and spear.</p>\n<h2>What do I own?</h2>\n<p>You own the clothes that you’re wearing: a red wool shirt and blue wool trousers; leather calf boots, a ringmail hauberk and cowl; and a halfhelm with a nasal, made from Kurbul (boiled leather). Your hauberk is spoil of war, scavenged from a mercenary who was killed in a Pagaelin ambush. You carry the standard weapons of a mercenary: a dagger, falchion, spear and round shield. A leather pouch tied to your belt contains your last two silver pennies and a flint and steel.</p>\n<h2>Where am I going?</h2>\n<p>The winter has been a lean time, and the death of the sheriff has left Hutop disorganised. With little honest work to be had, as the snows have melted you made your way to Litchton, where a few presents made your family more hospitable. You, then travelled to Tasinald, where you were offered labouring work. You refused and decided to travel on to Jedes.</p>\n<h2>Religion</h2>\n<p>Most people, including you, worship gentle Peoni, goddess of healing and agriculture. Almost every village has a chapel to the goddess. Her services take place on the 4th, 12th, 20th &amp; 28th of each month. You sometimes attend the service.</p>\n<p>The nobles worship Larani, goddess of the feudal ideal. She is regarded by many as the protector of Peoni. Halea is the wanton goddess of profit, pleasure and luck, she is worshipped by some merchants and city dwellers. Ilvir is the mystic &amp; craven lord. A god of the old ways and old times. Morgath, Naveh and Agrik are the dark gods. All are evil, following them will damn your eternal soul.</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.e9Mx6hN3dpPx7AKo"
+    },
+    {
+      "name": "Character: Ryssi of Chert Image",
+      "src": "modules/hm-adv-sos/assets/images/ryssi-of-chert.webp",
+      "type": "image",
+      "image": {
+        "caption": "Character: Ryssi of Chert"
+      },
+      "_id": "XyZRVju78t7j8sr7",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.XyZRVju78t7j8sr7"
+    },
+    {
+      "name": "Character: Ryssi of Chert",
+      "src": "modules/hm-adv-sos/assets/images/ryssi-of-chert.webp",
+      "type": "text",
+      "image": {
+        "caption": "Character: Ryssi of Chert"
+      },
+      "_id": "KW2QtielFBwOm7ai",
+      "text": {
+        "content": "<p><img src=\"modules/hm-adv-sos/assets/images/ryssi-of-chert-headshot.webp\" width=\"200\" height=\"152\" /></p>\n<h1>Data</h1>\n<table style=\"width:95%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthdate</strong></td>\n<td style=\"width:432px\">28 Peonu 699</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Birthplace</strong></td>\n<td style=\"width:432px\">Umbatir, Myaman Hundred, Meselynshire, Kaldor</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Sibling Rank</strong></td>\n<td style=\"width:432px\">5 of 6</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent(s)</strong></td>\n<td style=\"width:432px\">Bastard - not acknowledged</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Parent Occupation</strong></td>\n<td style=\"width:432px\">Freehold farmer</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Estrangement</strong></td>\n<td style=\"width:432px\">Average</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Clanhead</strong></td>\n<td style=\"width:432px\">Great Grandfather</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Medical Traits</strong></td>\n<td style=\"width:432px\">Birthmark on neck</td>\n</tr>\n<tr>\n<td style=\"width:143.6px\"><strong>Psyche Traits</strong></td>\n<td style=\"width:432px\">Arachnophobia (mild): afraid of spiders</td>\n</tr>\n</tbody>\n</table>\n<h1>Life Story</h1>\n<h2>Who am I?</h2>\n<p>You are Ryssi of Clan Chert, though your clan name means little. You are twenty one years old. Last spring you were ordained as an Ebasethe (Priestess of Peoni) of the all female order of the Balm of Joy.</p>\n<h2>Who are my family?</h2>\n<p>Your mother was widowed three years before you were born. You don’t know who your father was, and if your mother does, she has not told you. She remarried two years after you were born, to Farrik of Chert, a freehold farmer. Though you bear his clan name, your step-father always reminded you that you were of clan Chert by his sufferance, not by blood or right. Three years after they married your mother gave birth to your half-brother, Ardin. Your elder half-siblings were fostered with various relatives when their father died. They all belong to clan Arlath. Your childhood might have been unhappy if it had not been for Ebasethe Maris, the local Priestess of Peoni. She took to you and helped you through your early years. She even taught you your letters. In your fourteenth year your stepfather told you that he intended to betroth you to his cousin Halir. Halir was already forty. Horrified, you confided in Ebasethe Maris, and she somehow managed to persuade your stepfather to allow you to train as a priestess.</p>\n<h2>Where do I come from?</h2>\n<p>You were born and raised in Umbatir, in the Hundred of Myaman, in the Shire of Meselyne, in the Kingdom of Kaldor. You lived in Umbatir for the first fourteen years of your life. A small settlement of twenty-one households, you knew everyone. Umbatir lies north east of the road between Olokand and Tashal.</p>\n<p>At fourteen Ebasethe Maris took you to the temple in Tashal, where for the next six years you were trained as a priestess. You lived in the temple, in the Esolani (acolyte) quarters, but took every opportunity to explore the great city of Tashal. Your curiosity has got you into trouble on several occasions. Upon your ordination almost a year and a half ago your curiosity once again got the better of you. You petitioned the temple to be allowed to leave. Your wish was granted. You, together with Ebasethe Garythe were sent to accompany the elderly Ebasethe Yrtha on a pilgrimage. You travelled to her birthplace, Qualdris, before turning west to visit the shrine of Saint Bromel at Bromeleon. Between Hutop and Jedes. You were summoned by a couple of youths to the local mine, where there had been a collapse. Six corpses were pulled from the collapse, and three survivors. You nursed them all back to health. You continued to Bromeleon and then went, with Yrtha, to the leper colony at Poynter. Ebasethe Garythe left, but you remained at Poynter and nursed Yrtha until her death. You spent much of the year in the leper colony at Poynter. As winter began, you left, and went to help an elderly priestess, Bredyth, minister to the village of Novelim. In the middle of winter a guardsman from Yalen arrived, he had been sent for help as the local lord was ill and the local priest had recently died. Bredyth sent you, a sensible decision, as you were younger and fitter. An attractive young yeoman’s son, Kalas of Delsin, was sent with you. You were halfway between Novelim &amp; Yalen when Kalas spotted someone in the river. He waded in and pulled out an unconscious young man. The young man, Gorrys of Lunn, was extremely cold and close to death. After plunging into the river Kalas, too, was freez- ing. The three of you struggled into Yalen in a blizzard. You left the men in the care of Gorrys’ family and went to the manor house. The old lord was weak and feverish. Despite your efforts, he died ten days later. The lord’s son let it be known that you were no longer welcome, so you left for Bromeleon. From Bromeleon you were sent to the sheriff in Hutop, to deliver a message. The sheriff had died and the acting sheriff, a coarse man with little respect for you, read it and them told you to deliver it to the constable at Jedes instead.</p>\n<h2>Who are my friends?</h2>\n<p>You have few true friends. You’ve met several people over your last few months in this part of Kaldor. You’ve decided to travel from settlement to settlement, staying with the resident priests and getting to know the area.</p>\n<h2>What can I do?</h2>\n<p>You’re a farmers daughter and your church encour- ages knowledge of agriculture, you can cook, you have helped lay out corpses, you are literate and can illuminate manuscripts, though not well. You have the basics of several healing skills. You know a little about a lot, law, mathematics, folklore etc.</p>\n<h2>What do I own?</h2>\n<p>You own nothing! The goddess will provide for you. Praise be to Peoni! The church of Peoni provides the clothes that you wear. Your robes are ceremonially changed at the beginning of each season. You currently wear the white robes of winter: you have a long-sleeved ankle length wool robe; a short sleeved thigh length wool over-tunic; a wool hood, and a pair of leather shoes. In a little over ten days you must attend the Turning Cer- emony, to receive the green robes of Spring. You carry a knife, to eat with. You have neither money nor goods, but your calling means that you are guaranteed hospitality in most villages.</p>\n<h2>Where am I going?</h2>\n<p>You are travelling to Jedes, you have a message for the constable. After that, who knows? You are an Ebasethe and should return to your temple in Tashal. However, you’d rather explore this area. If people keep asking you for help, how can you refuse? You can justify your stay for as long as you’re doing the goddess’ work. Last night you stayed in the village of Calsite, asking hospitality of the Peonian Priestess. Ondren of Lemra, one of the miners you nursed was also there. He has offered to escort you to Jedes.</p>\n<h2>Religion</h2>\n<p>Most people worship your goddess, gentle Peoni, god- dess of healing and agriculture. You can be sure of charity and aid from the pious, but the goddess preaches a life of celibacy poverty and service for her clergy. You should take little, and expect little, from the lay worshippers.</p>\n<p>The nobles worship Larani, goddess of the feudal ideal. Most noble lords will treat you respectfully, in most cases this is genuine respect for your calling. All nobles know that a lack of respect for the ‘peasants goddess’ can cre- ate problems.</p>\n<p>Wanton Halea, goddess of selfishness is becoming popular with many merchants and freemen. You should preach against her ways.</p>\n<p>Ilvir the craven lord is followed by some. His follow- ers preach of fate and mysticism, some practice animal sacrifice. His followers should be gently guided to the true path.</p>\n<p>Morgath, Naveh, and Agrik are dark and evil; bringers of death, chaos and destruction. Following them will damn your eternal soul.</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!T0Zvm9e19175by6m.KW2QtielFBwOm7ai"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659200476759,
+    "modifiedTime": 1659200476759,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "T0Zvm9e19175by6m",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!T0Zvm9e19175by6m"
+}

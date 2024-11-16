@@ -1,0 +1,302 @@
+{
+  "name": "A Shower of Silver",
+  "pages": [
+    {
+      "name": "Credits",
+      "type": "text",
+      "text": {
+        "content": "<p>This work is derived from the PDF \"A Shower of Silver\" from Lythia.com (<a title=\"A Shower of Silver\" href=\"https://www.lythia.com/adventures/a-shower-of-silver/\">https://www.lythia.com/adventures/a-shower-of-silver/</a>), and has been adapted to Foundry VTT by Tom Rodriguez.</p>\n<p> </p>\n<p><strong>Writer: </strong>Neil Thompson</p>\n<p><strong>Contributors:</strong> Matthias Janßen, Andy Gibson, Daniel Bell, and Allan Prewett</p>\n<p><strong>Artists: </strong>Richard Luscheck and Juha Makkonnen</p>\n<p><strong>Playtest Referees:</strong> Neil Thompson, Matthias Janßen, Andy Gibson, and Allan Prewett</p>\n<p><strong>Playtesters: </strong>Dave (no relation to Dan) Bell, Neil F (this character sheet is wrong!) Hepple, Robert L (George) Sanders, Dave Wilkinson, Andy Wouldham, Jörn Schmidt, Durk Vellema, Alexander Riedel, Hanna Fedderwitz, Ron Dill, Rob Duff, Michael Edmonds, J Patrick MacDonald, Jonathan Nicholas, Ken Snellings, Richard Black, Aaron Hay, Leigh Heron, David Hoey, and Jarick Prewett</p>\n<p> </p>\n<p>Thanks to Grant Dalgleish for permission to use the official ‘Sir Shernath Mirdarne’ illustration from the ‘Kaldor Kingdom Module’</p>\n<p> </p>\n<p>This module is \"Fanon\",  a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Crossby.</p>\n<p> </p>",
+        "format": 1
+      },
+      "_id": "GNPwfGSz8Sx94i21",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.GNPwfGSz8Sx94i21"
+    },
+    {
+      "name": "GM Map Image",
+      "src": "modules/hm-adv-sos/assets/images/gm-map.webp",
+      "type": "image",
+      "image": {
+        "caption": "GM Map"
+      },
+      "_id": "CPSs5khI9gpMFRZQ",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.CPSs5khI9gpMFRZQ"
+    },
+    {
+      "name": "HârnWorld Information",
+      "type": "text",
+      "text": {
+        "content": "<h2>GLOSSARY</h2>\n<p>For those unfamiliar with HârnWorld, there are a number of terms that may require some explanation. The glossary below explains some of the more common terms and titles players are likely to meet while playing this scenario.</p>\n<dl>\n<dt>Bailiff</dt>\n<dd>A bailiff is an individual (usually a man, and usually a noble) who manages a manor for the absent owner. In Asolade Hundred, the bailiffs act as manages for the constable at Jedes and, in theory, defer to him. Bailiffs pay a greater proportion of the income from the manor to the constable than do fiefholders. As a consequence, they are not as wealthy.</dd>\n<dt>Bailiff of the Hundred</dt>\n<dd>A noble who acts as the representative of Royal Justice within a hundred; the Hundred Bailiff is a salaried Royal Official. He (it is usually he) dispenses the lowest level of Royal Justice and is charged with keeping the King’s Peace.</dd>\n<dt>Beadle</dt>\n<dd>The village Beadle is a yeoman who, as part of his feudal obligations, acts as ‘law man’ for a settlement. He polices the settlement and can levy fines. Beadles are expected to intervene if there is any trouble. If the trouble is serious, they are likely to raise a ‘hue and cry.’ Gathering other villagers to help and bear witness.</dd>\n<dt>Constable</dt>\n<dd>Like a bailiff, a constable is a manager for an absent owner. A constable, however, administers a keep and a large number of manors. In terms of land under his control, a constable is the equivalent of a baron. Unlike barons, however, constables are appointed (and can be dismissed) by their employer, usually an earl.</dd>\n<dt>Ebasethe</dt>\n<dd>A priest, or priestess of Peoni, the kindest and most gentle of the gods. Among her many titles, Peoni is the Guardian of the Meek, Lady of Industrious Labours and the Ripe Harvest, and Lady of Truth.</dd>\n<dt>Fiefholder</dt>\n<dd>A noble who holds a manor from a liege lord. In Asolade Hundred all of the landholding clans hold their fiefs from Sir Troda Dariune, Earl of Balim and Exchequer Royal through his local representative, the constable of Jedes.</dd>\n<dt>Guildsman</dt>\n<dd>A member of one of the many Hârnic guilds. Guildsmen are the experts in their particular field. They are also the only ones legally entitled to practice their profession.</dd>\n<dt>Hundred</dt>\n<dd>Shires (see below) are sub-divided into a number of smaller administrative areas called hundreds, administered by a Bailiff of the Hundred, an official responsible for law and taxes within the hundred and answerable to the local sheriff.</dd>\n<dt>Matakea</dt>\n<dd>A priest, or priestess, of Larani: the benevolent goddess of chivalry and battle and the relucnant warrior. Some noble households keep a Chaplain, a ‘personal’ Matakea to look after the spiritual needs of their household. This is especially common in areas (like Asolade Hundred) where there are few, if any, temples to the Goddess.</dd>\n<dt>Promissory Note</dt>\n<dd>A form of bill of exchange currently in widespread use throughout Hârn. There are two types of promissory notes; a ‘bearer’s note’ and a ‘personal note.’ A ‘bearer’s note’ can be cashed by anyone in possession of it; whereas a ‘personal note’ may only be cashed by the person named or his legally appointed representative.</dd>\n<dt>Shire</dt>\n<dd>A shire is a judicial division of the kingdom. Unrelated to feudal subinfeudination, most barons and earls find that their lands fall under the jurisdiction of several sheriffs. Sherif are royal officials, appointed by the king. They are responsible for royal justice, and the collection of taxes within their shire.</dd>\n<dt>Taburi</dt>\n<dd>A slender dagger, usually without a hilt, designed for throwing.</dd>\n<dt>Villein/Half Villein/Cottar</dt>\n<dd>A tenant of the local Lord. These people are tied to the land. They farm their land in exchange for labour given to their liege lord. The designation depends upon the amount of land farmed.</dd>\n<dd>Villeins hold the most land, over twenty acres; cottars the least, five acres or less. They may not leave their land, or even marry, without the permission of their lord. However, they work his fields and are a valued asset. They are entitled to their lord’s protection, and usually receive it.</dd>\n<dt>Yeoman</dt>\n<dd>A free man (or woman) entitled to bear arms and trained to fight. A yeoman is a farmer who provides military service in exchange for his land.</dd>\n</dl>\n<p> </p>\n<h2>WEAPONS</h2>\n<p>On Hârn, the use of certain weapons is restricted to the nobility. The pregenerated characters all carry weapons suitable to their rank. Also, the usual assumption is that people carrying several weapons may be out to cause trouble.</p>\n<p>It would be an unusual (or very trusting) noble who allowed well armed, unknown, individuals into his presence. Daggers are acceptable, but larger weapons are unnecessary and show a poor grasp of etiquette. An attempt to retain weapons when a guest in someone else’s home is a very suspicious act. In Jedes Keep, all weapons, other than daggers, will be stored safely in the barracks and returned to characters when they leave.</p>\n<p>For those new to Hârn the encounter on these pages (parting player characters from their weapons) may make, or break, the scenario as written. Anyone who refuses to hand over their weapons will simply not be employed.</p>\n<p>Referees can, of course, alter this to fit with the prejudices of their players.</p>\n<p> </p>\n<h2>SKILL ROLLS</h2>\n<p>HârnMaster Skill rolls are percentage rolls, based on the character’s skill mastery level. Mastery Levels (ML) for the pregenerated characters are given on the character sheets. There are four possible results, from best to worst they are:</p>\n<table>\n<tbody>\n<tr>\n<th>Result</th>\n<th style=\"text-align:left\">Description</th>\n</tr>\n<tr>\n<td>Critical Failure (CF)</td>\n<td>Any roll above the ML which ends in a 5 or 0 is a CF.</td>\n</tr>\n<tr>\n<td>Marginal Failure (MS)</td>\n<td>Any roll above the ML which is not a CF is a MS.</td>\n</tr>\n<tr>\n<td>Marginal Success (MS)</td>\n<td>Any roll below the ML which is not a CS is a MS.</td>\n</tr>\n<tr>\n<td>Critical Success (CS)</td>\n<td>Any roll below the ML which ends in a 5 or 0 is a CS.</td>\n</tr>\n</tbody>\n</table>\n<p>Example: Lysha has an Awareness skill of 44. A roll of 40 is a CS, a roll of 44 is a MS, a roll of 45 is a CF a roll of 48 is a MF.</p>\n<p> </p>\n<h2>Skill Index (SI)</h2>\n<p>A characters Skill Index (SI) is the ‘tens’ part of a skill, it is often used as a modifier to other skills. In the example above Lysha’s Awareness skill is 44 so her SI is 4.</p>",
+        "format": 1
+      },
+      "_id": "znKIDLrOic2ODsAP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.znKIDLrOic2ODsAP"
+    },
+    {
+      "name": "Letter to Sir Kodar Image",
+      "src": "modules/hm-adv-sos/assets/images/letter-to-sir-kodar.webp",
+      "type": "image",
+      "image": {
+        "caption": "Letter to Sir Kodar"
+      },
+      "_id": "Ppn1YDHmfEwaTnSC",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.Ppn1YDHmfEwaTnSC"
+    },
+    {
+      "name": "Letter to Sir Kodar",
+      "src": "modules/hm-adv-sos/assets/images/letter-to-sir-kodar.webp",
+      "type": "text",
+      "image": {
+        "caption": "Letter to Sir Kodar"
+      },
+      "_id": "i3XRucDuEhNmP03b",
+      "text": {
+        "content": "<p>To Sir Kodar Maradyne<br />Deputy to the Sheriff of Osel<br />Hutop</p>\n<p> </p>\n<p>My Lord Sheriff</p>\n<p>Greetings from Bromeleon, and may I wish you every good fortune.</p>\n<p>Among our flock in Poynter was one unfortunate individual cursed more than leprosy. Brygeth was also plagued by visions. She was shunned, even by her fellow unfortunates, because of her unwelcome gift. She has predicted many deaths, most with remarkable accuracy, and several other events, such as Brother Hadyl’s infection with the disease. Until now her sayings have involved only events in Poynter and Bromeleon.</p>\n<p>Ten days ago, however, Brother Hadyl, who now ministers to the lepers, brought to me the sad news of her demise. With this news he also brought information of a final series of predictions. I cannot attest to the accuracy of what follows, it may simply be the ramblings’ of a dying leper. However, given the nature of her final statement, I thought it wise to bring her words to your attention. A transcript of the last prophesy of Brygeth is appended, do with this as you will.</p>\n<p><br />The Blessings of Peoni to you<br />Rablar Oppias, Pelnala,<br />Bromeleon Abbey</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.i3XRucDuEhNmP03b"
+    },
+    {
+      "name": "The Prophecy Image",
+      "src": "modules/hm-adv-sos/assets/images/the-prophecy.webp",
+      "type": "image",
+      "image": {
+        "caption": "The Prophecy"
+      },
+      "_id": "nDscbx6PkZsVhRKf",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.nDscbx6PkZsVhRKf"
+    },
+    {
+      "name": "The Prophecy",
+      "src": "modules/hm-adv-sos/assets/images/the-prophecy.webp",
+      "type": "text",
+      "image": {
+        "caption": "The Prophecy"
+      },
+      "_id": "DS1fVjBjyd08QoEq",
+      "text": {
+        "content": "<p>The coming year bodes ill for Asolade. Dark times lie ahead.</p>\n<p>Many paths lead to chaos.</p>\n<p>The year begins with murder and monsters.</p>\n<p>Children are taken from their mothers, causing grief and misery.</p>\n<p>Friends become foes. Foes become friends.</p>\n<p>The wild men of the north want what is theirs.</p>\n<p>The wild men of the south want what is not theirs.</p>\n<p>The Dark Man brings vengeance for the vengeful. Old wounds, some almost healed, are reopened. The Dark Man claims to serve the true lord, but lies. He serves a rival.</p>\n<p>The Cunning One wants wealth, a tithe not due. Hidden in the green, the Cunning One is a servant of a servant of the lord of the lord.</p>\n<p>The Shadowed Man moves slowly. He wants life eternal. His plan begins this day. The crone dies tonight, unloved unmissed. The babe will follow before green turns to yellow. Before yellow turns to brown, it is the turn of the maiden to die. Last to die is mother. If mother dies, darkness falls.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.DS1fVjBjyd08QoEq"
+    },
+    {
+      "name": "The Urnelt/Kyngen Feud",
+      "type": "text",
+      "text": {
+        "content": "<p>Relations between three Jedes clans, Ornelt, Urnelt and Kyngen are complicated.</p>\n<h3>Clan Ornelt</h3>\n<p>All members of this clan now living in Jedes are decended from Caerah of Ornelt. His two sons, Tornyn (the senior) (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.aYAiVvDmjgizGi1B]{[41] Yeoman (Shortbow) Tornyn of Ornelt}) and Goris (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.eadJWNsv32xF5tE6]{[37] Cottar Goris of Ornelt}) between then are father, or grandfather to all other members of the clan in Jedes. The clan includes both yeomen and freemen. They take no side in the feud. Caerah also had a brother, Rothlar, a wild and impetuous young man.</p>\n<h3>Clan Urnelt</h3>\n<p>Sendalyn of Urnelt (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.uWwoH0nk0abNdO2e]{[28] Villein Sendalyn of Urnelt}) is head of this clan. His father was Rolthar of Ornelt, brother of Caerah (above). His mother was a woman named Mildred of Uratt. Unfortunately, Mildred was married to Gunart of Kyngen, not to Sendalyn’s father. Within a few weeks of his birth, Sendalyn’s parents were both murdered. The murderer was not the cuckolded husband, Gunart, but Gunart’s brother Mordek. Gunart, a devout Peonian, was horrified by his brother’s actions. He severed all ties with his clan and raised Sendalyn as his own son, giving the boy the clan name of Urnelt, a mix of the clan names of both of his parents.</p>\n<p>Sendalyn’s daughter, the merchantyler Cyrael, is supposed to look very like her murdered grandmother, Mildred. Now a free woman she is not close to he father. She rarely speaks to him, and regards his feud as bad for her business.</p>\n<h3>Clan Kyngen</h3>\n<p>Sholas of Kyngen (@UUID[JournalEntry.zzkVUITtfDwb7Na8.JournalEntryPage.2j1E9o2OqChlh0sx]{[47] Half-Villein Sholas of Kyngen}) is head of this clan. His father, Mordek of Kyngen, was hanged for murder when Sholas was six years old. Sholas was raised by his mother. While there is little doubt that Mordek was guilty of the murder, Sholas blames the events on his aunt’s infidelity and hates ‘that bastard’ Sendalyn as the cause of his fathers death.</p>\n<h3>The Feud</h3>\n<p>Gunart of Kyngen died twenty years ago. By that time, his adopted son Sendalyn of Urnelt had been subjected to years of taunts by Sholas of Kyngen. Sendalyn has suffered from the hatred of Sholas of Kyngen all of his life. For years he tried to make peace, but the complaints and attacks never stopped. Eventually, he decided that attacking Sholas in the local court was the best solution. The men have each been registering complaints about the other since Gunart died.</p>\n<p>The two men hate each other. Sholas is the son of a murderer, Sendalyn, the bastard whose birth caused the murder. The two men have, in the main, been unable to persuade their offspring to continue the feud. In fact Sendalyn’s daughter is married to Sholas’ son. When the men die, their feud will likely die with them. But, until then, each will take every opportunity to make trouble for the other. The punitive fines the constable levies on both men for ‘mischief making’ have failed to do anything other than generate income for the constable while impoverishing the two clans.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "4xPTDOvsmY8I3XkB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.4xPTDOvsmY8I3XkB"
+    },
+    {
+      "name": "Yma the Goose Girl",
+      "type": "text",
+      "text": {
+        "content": "<p>Main Article: @UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.MsEEJp7FzdBww1FE]{Goose Girl Yma of Luren}</p>\n<p>Yma is the keeps’ goose girl. The characters will soon discover that the constable takes a great deal of interest in his geese. As a consequence the bare-foot and scruffy Yma has a place much higher in the keep hierarchy than either her age or appearance would suggest.</p>\n<p>Referees may wish to allow players an Intrigue roll, with a success allowing them to realise, from the way she is treated by Straken and the keep guards, that she has some indeterminate ‘status’ within the keep.</p>\n<h2>Questioning Yma</h2>\n<p>Referees may make questioning Yma a frustrating business for the characters. She is a young girl and is likely to take questions literally. She will assume that the characters know everyone whom she knows. The sample questions below give a flavour of any interview:</p>\n<blockquote>\n<p>Did you find the body?</p>\n<p>No, Blackeye did, I told Straken, don’t you listen?</p>\n<p>Who is Blackeye?</p>\n<p>My best layer. She ran off, she’s a naughty girl. I followed her here.</p>\n<p>Can you identify the body?</p>\n<p>It’s Felyss.</p>\n<p>Who is Felyss?</p>\n<p>(sigh) Don’t you know anything? Who are you anyway? Why did Straken send you? Where are all the proper guards?</p>\n</blockquote>\n<h2>What Yma Knows</h2>\n<p>Careful questioning will eventually reveal the following information:</p>\n<p>Blackeye is currently Yma’s best layer, a large and aggressive goose with a black patch over her right eye. Yma was looking for the goose, who often strays from the flock, when she found goose and corpse in the grove. She knows the woman, it is Felyss, daughter of one of the local half-villeins, Faran of Kyngens (Jedes [47]).</p>\n<p>When she saw her, she called out her name and then approached. She was a little frightened, but approached close enough to tap her on the shoulder with her goose stick (Yma carries a four foot long willow wand which she uses to herd her geese). When she got no response she ran back to the keep.</p>\n<p>Yma has seen Felyss in the grove before, usually with Meliren of Heriel, the ostler’s son. There are often grown-ups in the grove together, usually in couples.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "p1l74SksjeMWMvdg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.p1l74SksjeMWMvdg"
+    },
+    {
+      "name": "Overview",
+      "type": "text",
+      "text": {
+        "content": "<p>A Shower of Silver is the first of a series of adventures set in <a title=\"Asolade Hundred\" href=\"https://www.lythia.com/series/asolade-hundred-series/\">Asolade Hundred</a>. This adventure is intended to be used with the background information presented in the <a href=\"https://github.com/toastygm/hm-loc-jedes\">Jedes</a> module.</p>\n<p>This adventure is intended as an introduction to HârnWorld and the HârnMaster role playing game; but the information is system agnostic, and can be used with any system. The scenario is designed as a ‘convention’ module and can be played in a single session. In order to facilitate convention play, six pre-generated characters are included. These characters are simply provided in order to allow a quick start-up. It is not, of course, necessary to use them. However referees will note that the pre-generated characters have ‘local’ backgrounds.</p>\n<p>For the residents of this remote backwater in the south west corner of the Kingdom of Kaldor, there are troubled times ahead. There are several forces at work in Asolade Hundred. Many wish ill upon some, or all, citizens. The player characters will have the opportunity to make a name for themselves in the hundred. They may be able to: impress the lords of Asolade; make new friends (and enemies), and to gain fame and fortune.</p>\n<p>Referees should familiarise themselves with the ‘Jedes’ module. Most important NPC’s are detailed in the Jedes module.</p>\n<p>Asolade Hundred is a dynamic place. The series of adventures begins in the spring of 720 T.R. All Hârn articles are valid for this date. The scenarios will take the players forward to the winter of the year.</p>\n<h2>HârnMaster</h2>\n<p>Although this scenario is designed for the <a title=\"The HârnMaster System for Foundry VTT\" href=\"https://foundryvtt.com/packages/hm3\">HârnMaster system</a>, and several examples of skill rolls have been included, it would be relatively easy to convert the scenario to another rules system. The skill rolls in the earlier sections could be converted to rolls using similar skills in the game of your choice. From Part Four onwards no skill rolls are suggested. Any combats could easily be done using another system. Use of a system other than HârnMaster will require some work from the referee. As the character background information is systemless it would even be possible to use the pre-generated characters, converted to another system.</p>\n<h2>The Pre-Generated Characters</h2>\n<p>This scenario starts with the assumption that the player characters are arriving in Jedes on 3rd Nuzyael 720 T.R. and that they are looking for honest work. The background sheets for the pre-generated characters give a short history of the characters lives up to their departure for Jedes. These are the equivalent of the pre-game recommended in HârnMaster 3 character creation. Four of the characters have family, and all have friends, within the hundred. However, they are looking for work because their families cannot afford to keep them. Those characters with families in the area are on reasonably good terms with their clan head and could expect some small assistance from their clan. However, referees are reminded that one good turn deserves another and players trying to rely on relatives for support will soon find that they are being asked for help in return.</p>\n<p>There are two sets of links: one for the Journal entry that can be used for any system, and the other for HârnMaster-sepcific character sheets for the characters.</p>\n<table>\n<thead>\n<tr>\n<th style=\"width:8em\">Name</th>\n<th>Description</th>\n<th>System Agnostic Description</th>\n<th>HârnMaster Character Sheet</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Gorrys of Lunn</td>\n<td>Gorrys is a hunter and the son of a leatherworker. He has very good tracking and good combat skills. He is, however, illiterate. Gorrys and Lysha grew up in the same village, she is ‘the girl next door.’ His life was saved by Kalas of Delsin. He also knows the Priestess, Ryssi of Chert, she was with Kalas when Kalas rescued him.</td>\n<td>@UUID[JournalEntry.T0Zvm9e19175by6m.JournalEntryPage.1chBUmLbIE7JNeAy]{Character: Gorrys of Lunn}</td>\n<td>@UUID[Actor.fZRVLT8T5B5iMxgN]{Gorrys of Lunn}</td>\n</tr>\n<tr>\n<td>Harlin of Kleeve</td>\n<td>Harlin is a Journeyman Ostler with some limited combat abilities because of his militia training. He is not the best in combat and is poorly armoured, but he is literate and is the only pre-generated character with any skill at riding and horsecraft. Harlin has spent the last seven years as an apprentice in the same village as Kalas. He and Kalas are friends. He has taught Kalas to read, in return Kalas has taught him some weapon skills. Ryssi of Chert was, for a short time, the assistant to his local priest.</td>\n<td>@UUID[JournalEntry.T0Zvm9e19175by6m.JournalEntryPage.ERbBKBSaIQCvbWYt]{Character: Harlin of Kleve}</td>\n<td>@UUID[Actor.v0Z90exD5DaGN7eh]{Harlin of Kleve}</td>\n</tr>\n<tr>\n<td>Kalas of Delsin</td>\n<td>Kalas is a Light Foot Yeoman. He is good in combat and has some limited tracking skills. Kalas is a good all round character and is literate. Kalas recently hauled Gorrys of Lunn out of the river Kald. Kalas was acting as an escort for Ryssi of Chert at the time. The priestess was, for a short time, the assistant to the local Peonian priest. Kalas is a friend of Harlin of Kleve. Harlin taught Kalas to read, in return Kalas has taught Harlin some weapon skills. Harlin spent time recuperating in Gorrys’ home, he has met Gorrys’ friend &amp; neighbour Lysha of Rakath.</td>\n<td>@UUID[JournalEntry.T0Zvm9e19175by6m.JournalEntryPage.wUAH2d8Xk1uLkejk]{Character: Kalas of Delsin}</td>\n<td>@UUID[Actor.MLzzfHa8A3VBqyQ2]{Kalas of Delsin}</td>\n</tr>\n<tr>\n<td>Lysha of Rakath</td>\n<td>Lysha is a very good archer and is a good all around character. She has some tracking skills. Lysha and Gorrys grew up in the same village, he is ‘the boy next door.’ Over the winter, Gorrys was pulled from the Kald by Kalas, assisted by Ryssi. Lysha has met both yeoman and priestess. Kalas stayed with Gorrys until he recovered, wheras Ryssi went to the manorhouse. She knows Kalas better than she knows Ryssi.</td>\n<td>@UUID[JournalEntry.T0Zvm9e19175by6m.JournalEntryPage.zDU7GDHh7zBj6iqK]{Character: Lysha of Rakath}</td>\n<td>@UUID[Actor.ejcyk6Nt5uCBpIa8]{Lysha of Rakath}</td>\n</tr>\n<tr>\n<td>Ondren of Lemra</td>\n<td>Ondren has an eclectic mix of skills, the result of his background. He is a fairly good combatant and is the best armoured character. Other than the priestess, Ryssi, who helped in a mine rescue where Ondren was trapped, he does not know any of the other characters. He is the group’s outsider.</td>\n<td>@UUID[JournalEntry.T0Zvm9e19175by6m.JournalEntryPage.e9Mx6hN3dpPx7AKo]{Character: Ondren of Lemra}</td>\n<td>@UUID[Actor.5Sox26oiHZcYYdE0]{Ondren of Lemra}</td>\n</tr>\n<tr>\n<td>Ryssi of Chert</td>\n<td>Ryssi is the only character to know all of the others. As a Peonian Priestess she is a pacifist healer and a negotiator. This makes her an uncommon first choice for many players. Ryssi met Ondren when she was involved in a mine rescue. She helped minister to the villagers of Novelim, where she met Harlin and Kalas. She helped Kalas rescue Gorrys from the river Kald. She knows Lysha least of all.</td>\n<td>@UUID[JournalEntry.T0Zvm9e19175by6m.JournalEntryPage.KW2QtielFBwOm7ai]{Character: Ryssi of Chert}</td>\n<td>@UUID[Actor.83bDi0eAHIBBA8zI]{Ryssi of Chert}</td>\n</tr>\n</tbody>\n</table>\n<p>Most of the pre-generated characters know at least some of the others. One, the Peonian Ebasethe Ryssi of Chert, knows all of the others by name. Ryssi may become a recurring character in the campaign. She is likely to appear as a NPC if she is not a player character. She can be used to introduce the players to each other.</p>\n<section class=\"highlight\">\n<p><strong>Note</strong></p>\n<p>Ryssi has a message (@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.i3XRucDuEhNmP03b]{Letter to Sir Kodar} and @UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.DS1fVjBjyd08QoEq]{The Prophecy}) to deliver to Sir Shernath. The Pelnala at Bromeleon tasked her with delivering the message to the Acting Sheriff at Hutop, Sir Kodar, however, decided not to act on the information himself, but to simply pass it to the Constable at Jedes. This prophecy will provide a background for future adventures in Asolade hundred.</p>\n</section>\n<p>The first scenario is a murder mystery that should be easy to solve. The purpose of this scenario is to introduce the players to Jedes and to meet many of the important people in the town. It should also give the characters an opportunity to impress the constable.</p>\n<h2>Using Other Characters</h2>\n<p>The simplest way to bring other characters into the scenario is to have them acting as escorts for Ryssi of Chert. This will bring the characters together and allow a simple introduction to the constable. It is likely that the character will be new to the area. If they are ‘not from around here,’ they may find that some of the locals side against them.</p>\n<h2>Jedes</h2>\n<p>Jedes is a small settlement, especially in relation to the size of the keep. It is, however, the main market town for the hundred and it is the only location within a day’s walk where many goods can be bought.</p>\n<p>All residents of the hundred have a passing familiarity with Jedes. Most locals only visit on Market Days, or during the annual Horse Fair. At other times, Jedes is a quiet place.</p>\n<p>The walk into Jedes, from any direction, is along a muddy track. The region is just coming to life after winter. There are ox-ploughs in many of the fields around the village. The men leading the beasts and driving the ploughs are turning the rich, dark, valley soil; preparing the ground for the spring planting.</p>\n<p>Some cottage gardens are being dug to prepare for the planting of herbs, vegetables, and dye-plants. In most of the cottages the shutters are wide open, and women are vigorously wielding besoms, brushing the winter’s grime from their homes.</p>\n<p>No matter from which direction the PCs have entered Jedes, Jedes Keep will have been visible to them for quite some time in the distance. The PCs will notice several people stop work and watch them as they walk into the settlement.</p>\n<h2>Outline</h2>\n<p>The following outline should assist you in navigating through this adventure.</p>\n<h3>Background Information</h3>\n<p>@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.znKIDLrOic2ODsAP]{HârnWorld Information}</p>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.n5LEe9QmFBPGwlnW]{Scenario Information}</p>\n<p>@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.p1l74SksjeMWMvdg]{Yma the Goose Girl}</p>\n<p>@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.CPSs5khI9gpMFRZQ]{GM Map Image}</p>\n<p>@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.i3XRucDuEhNmP03b]{Letter to Sir Kodar}</p>\n<p>@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.DS1fVjBjyd08QoEq]{The Prophecy}</p>\n<p>@UUID[JournalEntry.09lMEwBLsvX886dD.JournalEntryPage.4xPTDOvsmY8I3XkB]{The Urnelt/Kyngen Feud}</p>\n<h3>Scenario</h3>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.S708ZmjwKt3IlPS3]{Part One: Arrival}</p>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.bdKsJQGAXkMDvcwx]{Part Two: Employment}</p>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.9IFRNXp1MmqTOsXU]{Part Three: Scene of the Crime}</p>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.DAhMhD6tlCGiSMe7]{Part Four: Investigation}</p>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.afmev09HzQfyXzQV]{Part Five: At the Circus}</p>\n<p>@UUID[JournalEntry.In1njuaszlcNb9H3.JournalEntryPage.LlLk07hBRjTKauPE]{Denouement}</p>\n<h3>NPCs</h3>\n<p>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.dtPGX5jy5PCE0RxS]{Sergeant-at-Arms Straken of Ornelt}</p>\n<p>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.5m6aXD6kEVWF0iFe]{Sir Shernath Mirdarne, Constable of Jedes}</p>\n<p>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.x84KzqfInScK4VMj]{Lady Helarn Poulty, Chancellor of the Keep}</p>\n<p>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.UY77z5KFUsXpoGCB]{Sir Tamys Poulty, Chamberlain}</p>\n<p>@UUID[JournalEntry.Zr0TkO19fkKksJAO.JournalEntryPage.g7oYy7qOrSrT7MRL]{Sir Jassyff Mazerony, Herald}</p>\n<p> </p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "5WQK6hq155mb93Da",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": -100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!09lMEwBLsvX886dD.5WQK6hq155mb93Da"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659200476729,
+    "modifiedTime": 1659200476729,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "09lMEwBLsvX886dD",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!09lMEwBLsvX886dD"
+}

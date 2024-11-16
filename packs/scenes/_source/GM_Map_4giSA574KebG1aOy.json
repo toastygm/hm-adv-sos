@@ -1,0 +1,237 @@
+{
+  "_id": "4giSA574KebG1aOy",
+  "name": "GM Map",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/4giSA574KebG1aOy-thumb.webp",
+  "width": 1576,
+  "height": 1200,
+  "padding": 0.1,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 100,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1658088812826,
+  "globalLight": false,
+  "globalLightThreshold": null,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "Y0Ncxlw1MLkM9XKY",
+      "entryId": "In1njuaszlcNb9H3",
+      "x": 744,
+      "y": 650,
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {},
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "9IFRNXp1MmqTOsXU",
+      "text": "Part Three: Scene of the Crime",
+      "global": false,
+      "_key": "!scenes.notes!4giSA574KebG1aOy.Y0Ncxlw1MLkM9XKY"
+    },
+    {
+      "_id": "64HUPRKD7l8yd06H",
+      "entryId": "In1njuaszlcNb9H3",
+      "x": 891,
+      "y": 1067,
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {},
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "S708ZmjwKt3IlPS3",
+      "text": "Part One: Arrival",
+      "global": false,
+      "_key": "!scenes.notes!4giSA574KebG1aOy.64HUPRKD7l8yd06H"
+    },
+    {
+      "_id": "LuF1jfGDYVol2BHj",
+      "entryId": "In1njuaszlcNb9H3",
+      "x": 1057,
+      "y": 459,
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {},
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "bdKsJQGAXkMDvcwx",
+      "text": "Part Two: Employment",
+      "global": false,
+      "_key": "!scenes.notes!4giSA574KebG1aOy.LuF1jfGDYVol2BHj"
+    },
+    {
+      "_id": "WEurYSDhWQ8de3pQ",
+      "entryId": "In1njuaszlcNb9H3",
+      "x": 536,
+      "y": 971,
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {},
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "DAhMhD6tlCGiSMe7",
+      "text": "Part Four: Investigation",
+      "global": false,
+      "_key": "!scenes.notes!4giSA574KebG1aOy.WEurYSDhWQ8de3pQ"
+    },
+    {
+      "_id": "wKBlVr0lfQMYFXtl",
+      "entryId": "In1njuaszlcNb9H3",
+      "x": 1618,
+      "y": 1307,
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {},
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "afmev09HzQfyXzQV",
+      "text": "Part Five: At the Circus",
+      "global": false,
+      "_key": "!scenes.notes!4giSA574KebG1aOy.wKBlVr0lfQMYFXtl"
+    },
+    {
+      "_id": "SeplAPQtAz17Sqfn",
+      "entryId": "In1njuaszlcNb9H3",
+      "x": 1685,
+      "y": 1135,
+      "iconSize": 40,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {},
+      "texture": {
+        "src": "icons/svg/book.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "LlLk07hBRjTKauPE",
+      "text": "Denouement",
+      "global": false,
+      "_key": "!scenes.notes!4giSA574KebG1aOy.SeplAPQtAz17Sqfn"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": "ovV2h5eraYwj8dMQ",
+  "weather": "",
+  "flags": {
+    "hm-adv-sos": {
+      "imported": "1.0.2"
+    },
+    "scene-packer": {
+      "source-module": "hm-adv-sos",
+      "packed-with-version": "2.2.25",
+      "sourceId": "Scene.KZ7kAIzY8C0sOK6K",
+      "hash": "e384fad0079f60bf045df2b1ba691fe9842c4625"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-adv-sos.scenes.4giSA574KebG1aOy"
+    },
+    "hm3": {
+      "isTotm": false
+    }
+  },
+  "background": {
+    "src": "modules/hm-adv-sos/assets/images/gm-map.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659200502087,
+    "modifiedTime": 1659200502087,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!4giSA574KebG1aOy"
+}
